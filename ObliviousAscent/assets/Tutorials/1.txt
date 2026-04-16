@@ -1,0 +1,7 @@
+When falling next to a wall,
+---
+Press the directional button towards it to wall-cling,
+---
+You can then kick off the wall by pressing space.
+---
+Try it here.

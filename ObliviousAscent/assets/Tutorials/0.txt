@@ -1,0 +1,7 @@
+Welcome to the tower.
+
+Use A and D to move.
+---
+Use Space to jump.
+---
+Good luck.

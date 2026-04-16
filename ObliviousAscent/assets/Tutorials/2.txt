@@ -1,0 +1,5 @@
+Press N to dash in the direction you are facing.
+---
+You can dash on the ground or in the air.
+---
+Try it here to get over the jagged spikes.
