@@ -1,794 +1,579 @@
-LEVEL_HEIGHT -1490
+LEVEL_HEIGHT -1355
 LEVEL_FLOOR 905
-Static Platform 0 888.75 40 11.25
-Static Platform 40 888.75 40 11.25
-Static Platform 80 888.75 40 11.25
-Static Platform 120 888.75 40 11.25
-Static Platform 160 888.75 40 11.25
-Static Platform 200 888.75 40 11.25
-Static Platform 240 888.75 40 11.25
-Static Platform 280 888.75 40 11.25
-Static Platform 320 888.75 40 11.25
-Static Platform 360 888.75 40 11.25
-Static Platform 400 888.75 40 11.25
-Static Platform 440 888.75 40 11.25
-Static Platform 480 888.75 40 11.25
-Static Platform 520 888.75 40 11.25
-Static Platform 640 888.75 40 11.25
-Static Platform 680 888.75 40 11.25
-Static Platform 720 888.75 40 11.25
-Static Platform 760 888.75 40 11.25
-Static Platform 800 888.75 40 11.25
-Static Platform 840 888.75 40 11.25
-Static Platform 880 888.75 40 11.25
-Static Platform 920 888.75 40 11.25
-Static Platform 960 888.75 40 11.25
-Static Platform 1080 888.75 40 11.25
-Static Platform 1120 888.75 40 11.25
-Static Platform 1160 888.75 40 11.25
-Static Platform 1200 888.75 40 11.25
-Static Platform 1240 888.75 40 11.25
-Static Platform 1280 888.75 40 11.25
-Static Platform 1320 888.75 40 11.25
-Static Platform 1360 888.75 40 11.25
-Static Platform 1400 888.75 40 11.25
-Static Platform 1440 888.75 40 11.25
-Static Platform 1480 888.75 40 11.25
-Static Platform 1520 888.75 40 11.25
-Static Platform 1560 888.75 40 11.25
-Static Platform 20 877.5 40 11.25
-Static Platform 60 877.5 40 11.25
-Static Platform 100 877.5 40 11.25
-Static Platform 140 877.5 40 11.25
-Static Platform 180 877.5 40 11.25
-Static Platform 220 877.5 40 11.25
-Static Platform 260 877.5 40 11.25
-Static Platform 300 877.5 40 11.25
-Static Platform 340 877.5 40 11.25
-Static Platform 380 877.5 40 11.25
-Static Platform 420 877.5 40 11.25
-Static Platform 460 877.5 40 11.25
-Static Platform 500 877.5 40 11.25
-Static Platform 20 866.25 40 11.25
-Static Platform 60 866.25 40 11.25
-Static Platform 100 866.25 40 11.25
-Static Platform 140 866.25 40 11.25
-Static Platform 180 866.25 40 11.25
-Static Platform 220 866.25 40 11.25
-Static Platform 260 866.25 40 11.25
-Static Platform 300 866.25 40 11.25
-Static Platform 340 866.25 40 11.25
-Static Platform 380 866.25 40 11.25
-Static Platform 420 866.25 40 11.25
-Static Platform 460 866.25 40 11.25
-Static Platform 500 866.25 40 11.25
-Static Platform 80 855 40 11.25
-Static Platform 120 855 40 11.25
-Static Platform 160 855 40 11.25
-Static Platform 200 855 40 11.25
-Static Platform 240 855 40 11.25
-Static Platform 280 855 40 11.25
-Static Platform 320 855 40 11.25
-Static Platform 360 855 40 11.25
-Static Platform 400 855 40 11.25
-Static Platform 440 855 40 11.25
-Static Platform 480 855 40 11.25
-Static Platform 220 843.75 40 11.25
-Static Platform 260 843.75 40 11.25
-Static Platform 300 843.75 40 11.25
-Static Platform 340 843.75 40 11.25
-Static Platform 240 832.5 40 11.25
-Static Platform 280 832.5 40 11.25
-Static Platform 320 832.5 40 11.25
-Static Platform 280 821.25 40 11.25
-Static Platform 1100 877.5 40 11.25
-Static Platform 1140 877.5 40 11.25
-Static Platform 1120 866.25 40 11.25
-Static Platform 1100 855 40 11.25
-Static Platform 1080 843.75 40 11.25
-Static Platform 1060 832.5 40 11.25
-Wall 0 866.25 20 22.5
-Wall 0 -1001.25 20 22.5
-Wall 0 -978.75 20 22.5
-Wall 0 -956.25 20 22.5
-Wall 0 -933.75 20 22.5
-Wall 0 -911.25 20 22.5
-Wall 0 -888.75 20 22.5
-Wall 0 -866.25 20 22.5
-Wall 0 -843.75 20 22.5
-Wall 0 -821.25 20 22.5
-Wall 0 -798.75 20 22.5
-Wall 0 -776.25 20 22.5
-Wall 0 -753.75 20 22.5
-Wall 0 -731.25 20 22.5
-Wall 0 -708.75 20 22.5
-Wall 0 -686.25 20 22.5
-Wall 0 -663.75 20 22.5
-Wall 0 -641.25 20 22.5
-Wall 0 -618.75 20 22.5
-Wall 0 -596.25 20 22.5
-Wall 0 -573.75 20 22.5
-Wall 0 -551.25 20 22.5
-Wall 0 -528.75 20 22.5
-Wall 0 -506.25 20 22.5
-Wall 0 -483.75 20 22.5
-Wall 0 -461.25 20 22.5
-Wall 0 -438.75 20 22.5
-Wall 0 -416.25 20 22.5
-Wall 0 -393.75 20 22.5
-Wall 0 -371.25 20 22.5
-Wall 0 -348.75 20 22.5
-Wall 0 -326.25 20 22.5
-Wall 0 -303.75 20 22.5
-Wall 0 -281.25 20 22.5
-Wall 0 -258.75 20 22.5
-Wall 0 -236.25 20 22.5
-Wall 0 -213.75 20 22.5
-Wall 0 -191.25 20 22.5
-Wall 0 -168.75 20 22.5
-Wall 0 -146.25 20 22.5
-Wall 0 -123.75 20 22.5
-Wall 0 -101.25 20 22.5
-Wall 0 -78.75 20 22.5
-Wall 0 -56.25 20 22.5
-Wall 0 -33.75 20 22.5
-Wall 0 -11.25 20 22.5
-Wall 0 11.25 20 22.5
-Wall 0 33.75 20 22.5
-Wall 0 56.25 20 22.5
-Wall 0 78.75 20 22.5
-Wall 0 101.25 20 22.5
-Wall 0 123.75 20 22.5
-Wall 0 146.25 20 22.5
-Wall 0 168.75 20 22.5
-Wall 0 191.25 20 22.5
-Wall 0 213.75 20 22.5
-Wall 0 236.25 20 22.5
-Wall 0 258.75 20 22.5
-Wall 0 281.25 20 22.5
-Wall 0 303.75 20 22.5
-Wall 0 326.25 20 22.5
-Wall 0 348.75 20 22.5
-Wall 0 371.25 20 22.5
-Wall 0 393.75 20 22.5
-Wall 0 416.25 20 22.5
-Wall 0 438.75 20 22.5
-Wall 0 461.25 20 22.5
-Wall 0 483.75 20 22.5
-Wall 0 506.25 20 22.5
-Wall 0 528.75 20 22.5
-Wall 0 551.25 20 22.5
-Wall 0 573.75 20 22.5
-Wall 0 596.25 20 22.5
-Wall 0 618.75 20 22.5
-Wall 0 641.25 20 22.5
-Wall 0 663.75 20 22.5
-Wall 0 686.25 20 22.5
-Wall 0 708.75 20 22.5
-Wall 0 731.25 20 22.5
-Wall 0 753.75 20 22.5
-Wall 0 776.25 20 22.5
-Wall 0 798.75 20 22.5
-Wall 0 821.25 20 22.5
-Wall 0 843.75 20 22.5
-Wall 0 -1023.75 20 22.5
-Wall 0 -1271.25 20 22.5
-Wall 0 -1248.75 20 22.5
-Wall 0 -1226.25 20 22.5
-Wall 0 -1203.75 20 22.5
-Wall 0 -1181.25 20 22.5
-Wall 0 -1158.75 20 22.5
-Wall 0 -1136.25 20 22.5
-Wall 0 -1113.75 20 22.5
-Wall 0 -1091.25 20 22.5
-Wall 0 -1068.75 20 22.5
-Wall 0 -1046.25 20 22.5
-Wall 1580 -1271.25 20 22.5
-Wall 1580 -1248.75 20 22.5
-Wall 1580 -1226.25 20 22.5
-Wall 1580 -1203.75 20 22.5
-Wall 1580 -1181.25 20 22.5
-Wall 1580 -1158.75 20 22.5
-Wall 1580 -1136.25 20 22.5
-Wall 1580 -1113.75 20 22.5
-Wall 1580 -1091.25 20 22.5
-Wall 1580 -1068.75 20 22.5
-Wall 1580 -1046.25 20 22.5
-Wall 1580 -1023.75 20 22.5
-Wall 1580 -1001.25 20 22.5
-Wall 1580 -978.75 20 22.5
-Wall 1580 -956.25 20 22.5
-Wall 1580 -933.75 20 22.5
-Wall 1580 -911.25 20 22.5
-Wall 1580 -888.75 20 22.5
-Wall 1580 -866.25 20 22.5
-Wall 1580 -843.75 20 22.5
-Wall 1580 -821.25 20 22.5
-Wall 1580 -798.75 20 22.5
-Wall 1580 -776.25 20 22.5
-Wall 1580 -753.75 20 22.5
-Wall 1580 -731.25 20 22.5
-Wall 1580 -708.75 20 22.5
-Wall 1580 -686.25 20 22.5
-Wall 1580 -663.75 20 22.5
-Wall 1580 -641.25 20 22.5
-Wall 1580 -618.75 20 22.5
-Wall 1580 -596.25 20 22.5
-Wall 1580 -573.75 20 22.5
-Wall 1580 -551.25 20 22.5
-Wall 1580 -528.75 20 22.5
-Wall 1580 -506.25 20 22.5
-Wall 1580 -483.75 20 22.5
-Wall 1580 -461.25 20 22.5
-Wall 1580 -438.75 20 22.5
-Wall 1580 -416.25 20 22.5
-Wall 1580 -393.75 20 22.5
-Wall 1580 -371.25 20 22.5
-Wall 1580 -348.75 20 22.5
-Wall 1580 -326.25 20 22.5
-Wall 1580 -303.75 20 22.5
-Wall 1580 -281.25 20 22.5
-Wall 1580 -258.75 20 22.5
-Wall 1580 -236.25 20 22.5
-Wall 1580 -213.75 20 22.5
-Wall 1580 -191.25 20 22.5
-Wall 1580 -168.75 20 22.5
-Wall 1580 -146.25 20 22.5
-Wall 1580 -123.75 20 22.5
-Wall 1580 -101.25 20 22.5
-Wall 1580 -78.75 20 22.5
-Wall 1580 -56.25 20 22.5
-Wall 1580 -33.75 20 22.5
-Wall 1580 -11.25 20 22.5
-Wall 1580 11.25 20 22.5
-Wall 1580 33.75 20 22.5
-Wall 1580 866.25 20 22.5
-Wall 1580 56.25 20 22.5
-Wall 1580 78.75 20 22.5
-Wall 1580 101.25 20 22.5
-Wall 1580 123.75 20 22.5
-Wall 1580 146.25 20 22.5
-Wall 1580 168.75 20 22.5
-Wall 1580 191.25 20 22.5
-Wall 1580 213.75 20 22.5
-Wall 1580 236.25 20 22.5
-Wall 1580 258.75 20 22.5
-Wall 1580 281.25 20 22.5
-Wall 1580 303.75 20 22.5
-Wall 1580 326.25 20 22.5
-Wall 1580 348.75 20 22.5
-Wall 1580 371.25 20 22.5
-Wall 1580 393.75 20 22.5
-Wall 1580 416.25 20 22.5
-Wall 1580 438.75 20 22.5
-Wall 1580 461.25 20 22.5
-Wall 1580 483.75 20 22.5
-Wall 1580 506.25 20 22.5
-Wall 1580 528.75 20 22.5
-Wall 1580 551.25 20 22.5
-Wall 1580 573.75 20 22.5
-Wall 1580 596.25 20 22.5
-Wall 1580 618.75 20 22.5
-Wall 1580 641.25 20 22.5
-Wall 1580 663.75 20 22.5
-Wall 1580 686.25 20 22.5
-Wall 1580 708.75 20 22.5
-Wall 1580 731.25 20 22.5
-Wall 1580 753.75 20 22.5
-Wall 1580 776.25 20 22.5
-Wall 1580 798.75 20 22.5
-Wall 1580 821.25 20 22.5
-Wall 1580 843.75 20 22.5
-Static Platform 1000 787.5 40 11.25
-Static Platform 600 787.5 40 11.25
-Static Platform 640 787.5 40 11.25
-Static Platform 680 787.5 40 11.25
-Static Platform 720 787.5 40 11.25
-Static Platform 760 787.5 40 11.25
-Static Platform 800 787.5 40 11.25
-Static Platform 840 787.5 40 11.25
-Static Platform 880 787.5 40 11.25
-Static Platform 920 787.5 40 11.25
-Static Platform 960 787.5 40 11.25
-Static Platform 20 787.5 40 11.25
-Static Platform 60 787.5 40 11.25
-Static Platform 100 787.5 40 11.25
-Static Platform 140 787.5 40 11.25
-Static Platform 180 787.5 40 11.25
-Health 40 832.5 10 5.625
-Static Platform 20 708.75 40 11.25
-Static Platform 60 708.75 40 11.25
-Static Platform 140 675 40 11.25
-Static Platform 180 675 40 11.25
-Static Platform 220 675 40 11.25
-Static Platform 260 675 40 11.25
-Static Platform 300 675 40 11.25
-Static Platform 400 708.75 40 11.25
-Static Platform 440 708.75 40 11.25
-Static Platform 480 708.75 40 11.25
-Static Platform 520 708.75 40 11.25
-Static Platform 1060 731.25 40 11.25
-Static Platform 1100 731.25 40 11.25
-Static Platform 1160 686.25 40 11.25
-Static Platform 1200 686.25 40 11.25
-Static Platform 1240 686.25 40 11.25
-Static Platform 1360 686.25 40 11.25
-Static Platform 1400 686.25 40 11.25
-Static Platform 1540 607.5 40 11.25
-Static Platform 1460 607.5 40 11.25
-Static Platform 1500 607.5 40 11.25
-Static Platform 1400 562.5 40 11.25
-Static Platform 1320 562.5 40 11.25
-Static Platform 1360 562.5 40 11.25
-Static Platform 1260 517.5 40 11.25
-Static Platform 1320 472.5 40 11.25
-Static Platform 1360 472.5 40 11.25
-Static Platform 1400 472.5 40 11.25
-Static Platform 1440 472.5 40 11.25
-Static Platform 1360 416.25 40 11.25
-Static Platform 1280 416.25 40 11.25
-Static Platform 1320 416.25 40 11.25
-Static Platform 1220 371.25 40 11.25
-Static Platform 980 371.25 40 11.25
-Static Platform 1020 371.25 40 11.25
-Static Platform 1060 371.25 40 11.25
-Static Platform 1100 371.25 40 11.25
-Static Platform 1140 371.25 40 11.25
-Static Platform 1180 371.25 40 11.25
-Static Platform 600 663.75 40 11.25
-Static Platform 640 663.75 40 11.25
-Static Platform 680 663.75 40 11.25
-Static Platform 700 562.5 40 11.25
-Static Platform 740 562.5 40 11.25
-Static Platform 780 562.5 40 11.25
-Static Platform 820 562.5 40 11.25
-Static Platform 860 562.5 40 11.25
-Static Platform 900 562.5 40 11.25
-Static Platform 20 562.5 40 11.25
-Static Platform 60 562.5 40 11.25
-Static Platform 380 618.75 40 11.25
-Static Platform 420 618.75 40 11.25
-Static Platform 520 585 40 11.25
-Static Platform 440 540 40 11.25
-Static Platform 320 540 40 11.25
-Static Platform 360 540 40 11.25
-Static Platform 400 540 40 11.25
-Static Platform 540 495 40 11.25
-Static Platform 580 495 40 11.25
-Static Platform 620 495 40 11.25
-Static Platform 480 427.5 40 11.25
-Static Platform 440 427.5 40 11.25
-Static Platform 20 348.75 40 11.25
-Static Platform 60 348.75 40 11.25
-Static Platform 100 348.75 40 11.25
-Static Platform 140 348.75 40 11.25
-Static Platform 180 348.75 40 11.25
-Static Platform 220 348.75 40 11.25
-Static Platform 260 348.75 40 11.25
-Static Platform 300 348.75 40 11.25
-Static Platform 340 348.75 40 11.25
-Static Platform 380 348.75 40 11.25
-Static Platform 420 348.75 40 11.25
-Static Platform 460 348.75 40 11.25
-Static Platform 500 348.75 40 11.25
-Static Platform 640 405 40 11.25
-Static Platform 680 405 40 11.25
-Static Platform 720 405 40 11.25
-Static Platform 1540 281.25 40 11.25
-Static Platform 1460 281.25 40 11.25
-Static Platform 1500 281.25 40 11.25
-Static Platform 460 438.75 40 11.25
-Static Platform 400 360 40 11.25
-Static Platform 120 360 40 11.25
-Static Platform 160 360 40 11.25
-Static Platform 200 360 40 11.25
-Static Platform 240 360 40 11.25
-Static Platform 280 360 40 11.25
-Static Platform 320 360 40 11.25
-Static Platform 360 360 40 11.25
-Static Platform 180 371.25 40 11.25
-Static Platform 220 371.25 40 11.25
-Static Platform 260 371.25 40 11.25
-Static Platform 20 573.75 40 11.25
-Static Platform 1160 382.5 40 11.25
-Static Platform 1040 382.5 40 11.25
-Static Platform 1080 382.5 40 11.25
-Static Platform 1120 382.5 40 11.25
-Static Platform 1060 393.75 40 11.25
-Static Platform 1100 393.75 40 11.25
-Static Platform 1140 393.75 40 11.25
-Static Platform 1080 405 40 11.25
-Static Platform 1120 405 40 11.25
-Static Platform 1520 292.5 40 11.25
-Static Platform 1420 483.75 40 11.25
-Static Platform 1340 483.75 40 11.25
-Static Platform 1380 483.75 40 11.25
-Static Platform 1540 618.75 40 11.25
-Static Platform 1500 618.75 40 11.25
-Static Platform 1520 630 40 11.25
-Static Platform 580 315 40 11.25
-Static Platform 620 315 40 11.25
-Static Platform 680 258.75 40 11.25
-Static Platform 720 258.75 40 11.25
-Static Platform 760 258.75 40 11.25
-Static Platform 800 258.75 40 11.25
-Static Platform 200 303.75 40 11.25
-Static Platform 140 270 40 11.25
-Static Platform 100 270 40 11.25
-Static Platform 20 225 40 11.25
-Static Platform 60 225 40 11.25
-Static Platform 100 123.75 40 11.25
-Static Platform 140 123.75 40 11.25
-Static Platform 180 123.75 40 11.25
-Static Platform 220 123.75 40 11.25
-Static Platform 260 123.75 40 11.25
-Static Platform 300 123.75 40 11.25
-Static Platform 580 225 40 11.25
-Static Platform 500 225 40 11.25
-Static Platform 540 225 40 11.25
-Static Platform 400 168.75 40 11.25
-Static Platform 1380 326.25 40 11.25
-Static Platform 1340 326.25 40 11.25
-Static Platform 1480 191.25 40 11.25
-Static Platform 1320 191.25 40 11.25
-Static Platform 1360 191.25 40 11.25
-Static Platform 1400 191.25 40 11.25
-Static Platform 1440 191.25 40 11.25
-Static Platform 1240 191.25 40 11.25
-Static Platform 1200 191.25 40 11.25
-Static Platform 1120 146.25 40 11.25
-Static Platform 1040 146.25 40 11.25
-Static Platform 1080 146.25 40 11.25
-Static Platform 1220 101.25 40 11.25
-Static Platform 1260 101.25 40 11.25
-Static Platform 1300 56.25 40 11.25
-Static Platform 1340 56.25 40 11.25
-Static Platform 1380 56.25 40 11.25
-Static Platform 1420 56.25 40 11.25
-Static Platform 1460 56.25 40 11.25
-Static Platform 1500 56.25 40 11.25
-Static Platform 1540 56.25 40 11.25
-Static Platform 1400 0 40 11.25
-Static Platform 1440 0 40 11.25
-Static Platform 1480 -45 40 11.25
-Static Platform 1520 -45 40 11.25
-Static Platform 1540 -90 40 11.25
-Health 1560 33.75 10 5.625
-Static Platform 1460 -135 40 11.25
-Static Platform 620 -135 40 11.25
-Static Platform 660 -135 40 11.25
-Static Platform 700 -135 40 11.25
-Static Platform 740 -135 40 11.25
-Static Platform 780 -135 40 11.25
-Static Platform 820 -135 40 11.25
-Static Platform 860 -135 40 11.25
-Static Platform 900 -135 40 11.25
-Static Platform 940 -135 40 11.25
-Static Platform 980 -135 40 11.25
-Static Platform 1020 -135 40 11.25
-Static Platform 1060 -135 40 11.25
-Static Platform 1100 -135 40 11.25
-Static Platform 1140 -135 40 11.25
-Static Platform 1180 -135 40 11.25
-Static Platform 1220 -135 40 11.25
-Static Platform 1260 -135 40 11.25
-Static Platform 1300 -135 40 11.25
-Static Platform 1340 -135 40 11.25
-Static Platform 1380 -135 40 11.25
-Static Platform 1420 -135 40 11.25
-Static Platform 360 78.75 40 11.25
-Static Platform 400 78.75 40 11.25
-Static Platform 300 11.25 40 11.25
-Static Platform 220 11.25 40 11.25
-Static Platform 260 11.25 40 11.25
-Static Platform 380 -22.5 40 11.25
-Static Platform 420 -22.5 40 11.25
-Static Platform 460 -22.5 40 11.25
-Static Platform 540 -78.75 40 11.25
-Static Platform 460 -135 40 11.25
-Static Platform 20 -135 40 11.25
-Static Platform 60 -135 40 11.25
-Static Platform 100 -135 40 11.25
-Static Platform 140 -135 40 11.25
-Static Platform 180 -135 40 11.25
-Static Platform 220 -135 40 11.25
-Static Platform 260 -135 40 11.25
-Static Platform 300 -135 40 11.25
-Static Platform 340 -135 40 11.25
-Static Platform 380 -135 40 11.25
-Static Platform 420 -135 40 11.25
-Static Platform 20 -146.25 40 11.25
-Static Platform 60 -146.25 40 11.25
-Static Platform 100 -146.25 40 11.25
-Static Platform 140 -146.25 40 11.25
-Static Platform 180 -146.25 40 11.25
-Static Platform 220 -146.25 40 11.25
-Static Platform 260 -146.25 40 11.25
-Static Platform 300 -146.25 40 11.25
-Static Platform 40 -157.5 40 11.25
-Static Platform 80 -157.5 40 11.25
-Static Platform 120 -157.5 40 11.25
-Static Platform 160 -157.5 40 11.25
-Static Platform 200 -157.5 40 11.25
-Static Platform 240 -157.5 40 11.25
-Static Platform 60 -168.75 40 11.25
-Static Platform 100 -168.75 40 11.25
-Static Platform 140 -168.75 40 11.25
-Static Platform 180 -168.75 40 11.25
-Static Platform 220 -168.75 40 11.25
-Static Platform 100 -180 40 11.25
-Static Platform 100 -213.75 40 11.25
-Static Platform 100 -202.5 40 11.25
-Static Platform 100 -191.25 40 11.25
-Static Platform 180 -180 40 11.25
-Static Platform 180 -191.25 40 11.25
-Static Platform 40 -180 40 11.25
-Static Platform 20 -270 40 11.25
-Static Platform 100 -326.25 40 11.25
-Static Platform 140 -326.25 40 11.25
-Static Platform 180 -326.25 40 11.25
-Static Platform 220 -326.25 40 11.25
-Static Platform 300 -371.25 40 11.25
-Static Platform 340 -371.25 40 11.25
-Static Platform 380 -371.25 40 11.25
-Static Platform 440 -427.5 40 11.25
-Static Platform 440 -438.75 40 11.25
-Static Platform 480 -438.75 40 11.25
-Static Platform 520 -438.75 40 11.25
-Static Platform 480 -427.5 40 11.25
-Static Platform 520 -427.5 40 11.25
-Static Platform 1440 -258.75 40 11.25
-Static Platform 1360 -258.75 40 11.25
-Static Platform 1400 -258.75 40 11.25
-Static Platform 1300 -303.75 40 11.25
-Static Platform 1260 -303.75 40 11.25
-Static Platform 1360 -360 40 11.25
-Static Platform 1400 -360 40 11.25
-Static Platform 1440 -360 40 11.25
-Static Platform 1480 -360 40 11.25
-Static Platform 1540 -416.25 40 11.25
-Static Platform 1460 -461.25 40 11.25
-Static Platform 1540 -528.75 40 11.25
-Static Platform 1480 -607.5 40 11.25
-Static Platform 1320 -607.5 40 11.25
-Static Platform 1360 -607.5 40 11.25
-Static Platform 1400 -607.5 40 11.25
-Static Platform 1440 -607.5 40 11.25
-Static Platform 1260 -652.5 40 11.25
-Static Platform 1220 -652.5 40 11.25
-Static Platform 1180 -697.5 40 11.25
-Static Platform 1100 -697.5 40 11.25
-Static Platform 1140 -697.5 40 11.25
-Static Platform 1140 -742.5 40 11.25
-Static Platform 1180 -742.5 40 11.25
-Static Platform 1220 -742.5 40 11.25
-Static Platform 1260 -742.5 40 11.25
-Static Platform 1300 -742.5 40 11.25
-Static Platform 1340 -742.5 40 11.25
-Static Platform 1380 -742.5 40 11.25
-Static Platform 1420 -742.5 40 11.25
-Static Platform 1500 -742.5 40 11.25
-Static Platform 1540 -742.5 40 11.25
-Static Platform 1460 -787.5 40 11.25
-Static Platform 1420 -787.5 40 11.25
-Static Platform 1360 -832.5 40 11.25
-Static Platform 1320 -832.5 40 11.25
-Static Platform 1240 -877.5 40 11.25
-Static Platform 360 -877.5 40 11.25
-Static Platform 440 -877.5 40 11.25
-Static Platform 520 -877.5 40 11.25
-Static Platform 600 -877.5 40 11.25
-Static Platform 680 -877.5 40 11.25
-Static Platform 760 -877.5 40 11.25
-Static Platform 840 -877.5 40 11.25
-Static Platform 920 -877.5 40 11.25
-Static Platform 1000 -877.5 40 11.25
-Static Platform 1080 -877.5 40 11.25
-Static Platform 1160 -877.5 40 11.25
-Static Platform 400 -495 40 11.25
-Static Platform 320 -495 40 11.25
-Static Platform 360 -495 40 11.25
-Static Platform 280 -517.5 40 11.25
-Static Platform 80 -517.5 40 11.25
-Static Platform 120 -517.5 40 11.25
-Static Platform 160 -517.5 40 11.25
-Static Platform 200 -517.5 40 11.25
-Static Platform 240 -517.5 40 11.25
-Static Platform 20 -562.5 40 11.25
-Static Platform 60 -562.5 40 11.25
-Static Platform 80 -663.75 40 11.25
-Static Platform 120 -663.75 40 11.25
-Static Platform 160 -663.75 40 11.25
-Static Platform 200 -663.75 40 11.25
-Static Platform 240 -663.75 40 11.25
-Static Platform 280 -663.75 40 11.25
-Static Platform 340 -708.75 40 11.25
-Static Platform 380 -708.75 40 11.25
-Static Platform 420 -708.75 40 11.25
-Static Platform 460 -708.75 40 11.25
-Static Platform 300 -753.75 40 11.25
-Static Platform 260 -753.75 40 11.25
-Static Platform 200 -787.5 40 11.25
-Static Platform 120 -787.5 40 11.25
-Static Platform 160 -787.5 40 11.25
-Static Platform 280 -877.5 40 11.25
-Static Platform 40 -877.5 40 11.25
-Static Platform 120 -877.5 40 11.25
-Static Platform 200 -877.5 40 11.25
-Static Platform 1540 -877.5 40 11.25
-Wall 80 -956.25 20 22.5
-Wall 80 -1001.25 20 22.5
-Wall 80 -978.75 20 22.5
-Wall 140 -1001.25 20 22.5
-Wall 140 -1046.25 20 22.5
-Wall 140 -1023.75 20 22.5
-Wall 80 -1057.5 20 22.5
-Wall 80 -1080 20 22.5
-Wall 200 -1102.5 20 22.5
-Wall 200 -1080 20 22.5
-Wall 200 -1057.5 20 22.5
-Wall 200 -1035 20 22.5
-Wall 260 -967.5 20 22.5
-Wall 260 -1147.5 20 22.5
-Wall 260 -1125 20 22.5
-Wall 260 -1102.5 20 22.5
-Wall 260 -1080 20 22.5
-Wall 260 -1057.5 20 22.5
-Wall 260 -1035 20 22.5
-Wall 260 -1012.5 20 22.5
-Wall 260 -990 20 22.5
-Wall 200 -1158.75 20 22.5
-Wall 200 -1181.25 20 22.5
-Wall 340 -1170 20 22.5
-Wall 340 -1147.5 20 22.5
-Wall 340 -1203.75 20 22.5
-Wall 340 -1271.25 20 22.5
-Wall 340 -1248.75 20 22.5
-Wall 340 -1226.25 20 22.5
-Wall 260 -1215 20 22.5
-Wall 260 -1327.5 20 22.5
-Wall 260 -1305 20 22.5
-Wall 260 -1282.5 20 22.5
-Wall 260 -1260 20 22.5
-Wall 260 -1237.5 20 22.5
-Wall 420 -1293.75 20 22.5
-Wall 420 -1271.25 20 22.5
-Wall 420 -1248.75 20 22.5
-Wall 420 -1316.25 20 22.5
-Wall 420 -1361.25 20 22.5
-Wall 420 -1338.75 20 22.5
-Wall 340 -1327.5 20 22.5
-Wall 340 -1417.5 20 22.5
-Wall 340 -1395 20 22.5
-Wall 340 -1372.5 20 22.5
-Wall 340 -1350 20 22.5
-Wall 1020 -933.75 20 22.5
-Wall 1020 -978.75 20 22.5
-Wall 1020 -956.25 20 22.5
-Wall 1080 -956.25 20 22.5
-Wall 1080 -1001.25 20 22.5
-Wall 1080 -978.75 20 22.5
-Wall 1020 -1012.5 20 22.5
-Wall 1020 -1057.5 20 22.5
-Wall 1020 -1035 20 22.5
-Wall 1100 -1035 20 22.5
-Wall 1100 -1080 20 22.5
-Wall 1100 -1102.5 20 22.5
-Wall 1040 -1113.75 20 22.5
-Wall 1040 -1181.25 20 22.5
-Wall 1040 -1158.75 20 22.5
-Wall 1040 -1136.25 20 22.5
-Wall 1100 -1136.25 20 22.5
-Wall 1100 -1181.25 20 22.5
-Wall 1040 -1226.25 20 22.5
-Wall 1040 -1271.25 20 22.5
-Wall 1040 -1248.75 20 22.5
-Wall 1100 -1203.75 20 22.5
-Wall 1100 -1226.25 20 22.5
-Wall 1100 -1282.5 20 22.5
-Wall 1100 -1395 20 22.5
-Wall 1100 -1372.5 20 22.5
-Wall 1100 -1350 20 22.5
-Wall 1100 -1327.5 20 22.5
-Wall 1100 -1305 20 22.5
-Wall 1040 -1327.5 20 22.5
-Wall 1040 -1395 20 22.5
-Wall 1040 -1372.5 20 22.5
-Wall 1040 -1350 20 22.5
-Static Platform 1020 -1406.25 40 11.25
-Static Platform 460 -1406.25 40 11.25
-Static Platform 500 -1406.25 40 11.25
-Static Platform 540 -1406.25 40 11.25
-Static Platform 580 -1406.25 40 11.25
-Static Platform 620 -1406.25 40 11.25
-Static Platform 660 -1406.25 40 11.25
-Static Platform 700 -1406.25 40 11.25
-Static Platform 740 -1406.25 40 11.25
-Static Platform 780 -1406.25 40 11.25
-Static Platform 820 -1406.25 40 11.25
-Static Platform 860 -1406.25 40 11.25
-Static Platform 900 -1406.25 40 11.25
-Static Platform 940 -1406.25 40 11.25
-Static Platform 980 -1406.25 40 11.25
-Static Platform 1100 -1406.25 40 11.25
-Static Platform 1140 -1406.25 40 11.25
-Static Platform 1180 -1406.25 40 11.25
-Static Platform 1220 -1406.25 40 11.25
-Static Platform 1260 -1406.25 40 11.25
-Static Platform 1300 -1406.25 40 11.25
-Static Platform 1340 -1406.25 40 11.25
-Static Platform 1380 -1406.25 40 11.25
-Static Platform 1420 -1406.25 40 11.25
-Static Platform 1460 -1406.25 40 11.25
-Static Platform 1500 -1406.25 40 11.25
-Static Platform 1540 -1406.25 40 11.25
-Static Platform 1060 -1451.25 40 11.25
-Guard NPC 820 742.5 20 45
-Guard NPC 820 517.5 20 45
-Guard NPC 1080 326.25 20 45
-Guard NPC 400 303.75 20 45
-Guard NPC 40 180 20 45
-Guard NPC 1460 146.25 20 45
-Guard NPC 880 -180 20 45
-Guard NPC 1440 -405 20 45
-Guard NPC 380 -540 20 45
-Guard NPC 1400 -1451.25 20 45
-Static Platform 800 450 40 11.25
-Player Start 1500 854 20 34.75
-Static Platform 840 450 40 11.25
-Wall 0 -1293.75 20 22.5
-Wall 0 -1473.75 20 22.5
-Wall 0 -1451.25 20 22.5
-Wall 0 -1428.75 20 22.5
-Wall 0 -1406.25 20 22.5
-Wall 0 -1383.75 20 22.5
-Wall 0 -1361.25 20 22.5
-Wall 0 -1338.75 20 22.5
-Wall 0 -1316.25 20 22.5
-Wall 1580 -1473.75 20 22.5
-Wall 1580 -1451.25 20 22.5
-Wall 1580 -1428.75 20 22.5
-Wall 1580 -1406.25 20 22.5
-Wall 1580 -1383.75 20 22.5
-Wall 1580 -1361.25 20 22.5
-Wall 1580 -1338.75 20 22.5
-Wall 1580 -1316.25 20 22.5
-Wall 1580 -1293.75 20 22.5
-Static Platform 0 -1485 40 11.25
-Static Platform 40 -1485 40 11.25
-Static Platform 80 -1485 40 11.25
-Static Platform 120 -1485 40 11.25
-Static Platform 160 -1485 40 11.25
-Static Platform 200 -1485 40 11.25
-Static Platform 240 -1485 40 11.25
-Static Platform 280 -1485 40 11.25
-Static Platform 320 -1485 40 11.25
-Static Platform 360 -1485 40 11.25
-Static Platform 400 -1485 40 11.25
-Static Platform 440 -1485 40 11.25
-Static Platform 480 -1485 40 11.25
-Static Platform 520 -1485 40 11.25
-Static Platform 560 -1485 40 11.25
-Static Platform 600 -1485 40 11.25
-Static Platform 640 -1485 40 11.25
-Static Platform 680 -1485 40 11.25
-Static Platform 720 -1485 40 11.25
-Static Platform 760 -1485 40 11.25
-Static Platform 800 -1485 40 11.25
-Static Platform 840 -1485 40 11.25
-Static Platform 880 -1485 40 11.25
-Static Platform 920 -1485 40 11.25
-Static Platform 960 -1485 40 11.25
-Static Platform 1000 -1485 40 11.25
-Static Platform 1040 -1485 40 11.25
-Static Platform 1080 -1485 40 11.25
-Static Platform 1120 -1485 40 11.25
-Static Platform 1160 -1485 40 11.25
-Static Platform 1200 -1485 40 11.25
-Static Platform 1240 -1485 40 11.25
-Static Platform 1280 -1485 40 11.25
-Static Platform 1320 -1485 40 11.25
-Static Platform 1360 -1485 40 11.25
-Static Platform 1480 -1485 40 11.25
-Static Platform 1520 -1485 40 11.25
-Static Platform 1560 -1485 40 11.25
+Static Platform 0 888.75 40 11.25 index=0
+Static Platform 40 888.75 40 11.25 index=1
+Static Platform 80 888.75 40 11.25 index=2
+Static Platform 120 888.75 40 11.25 index=3
+Static Platform 160 888.75 40 11.25 index=4
+Static Platform 200 888.75 40 11.25 index=5
+Static Platform 240 888.75 40 11.25 index=6
+Static Platform 280 888.75 40 11.25 index=7
+Static Platform 320 888.75 40 11.25 index=8
+Static Platform 360 888.75 40 11.25 index=9
+Static Platform 400 888.75 40 11.25 index=10
+Static Platform 440 888.75 40 11.25 index=11
+Static Platform 480 888.75 40 11.25 index=12
+Static Platform 520 888.75 40 11.25 index=13
+Static Platform 560 888.75 40 11.25 index=14
+Static Platform 600 888.75 40 11.25 index=15
+Static Platform 640 888.75 40 11.25 index=16
+Static Platform 680 888.75 40 11.25 index=17
+Static Platform 720 888.75 40 11.25 index=18
+Static Platform 760 888.75 40 11.25 index=19
+Static Platform 800 888.75 40 11.25 index=20
+Static Platform 840 888.75 40 11.25 index=21
+Static Platform 880 888.75 40 11.25 index=22
+Static Platform 920 888.75 40 11.25 index=23
+Static Platform 960 888.75 40 11.25 index=24
+Static Platform 1040 888.75 40 11.25 index=25
+Static Platform 1080 888.75 40 11.25 index=26
+Static Platform 1120 888.75 40 11.25 index=27
+Static Platform 1160 888.75 40 11.25 index=28
+Static Platform 1200 888.75 40 11.25 index=29
+Static Platform 1240 888.75 40 11.25 index=30
+Static Platform 1280 888.75 40 11.25 index=31
+Static Platform 1320 888.75 40 11.25 index=32
+Static Platform 1360 888.75 40 11.25 index=33
+Static Platform 1400 888.75 40 11.25 index=34
+Static Platform 1440 888.75 40 11.25 index=35
+Static Platform 1480 888.75 40 11.25 index=36
+Static Platform 1520 888.75 40 11.25 index=37
+Static Platform 1560 888.75 40 11.25 index=38
+Static Platform 420 877.5 40 11.25 index=39
+Static Platform 460 877.5 40 11.25 index=40
+Static Platform 500 877.5 40 11.25 index=41
+Static Platform 540 877.5 40 11.25 index=42
+Static Platform 580 877.5 40 11.25 index=43
+Static Platform 620 877.5 40 11.25 index=44
+Static Platform 660 877.5 40 11.25 index=45
+Static Platform 700 877.5 40 11.25 index=46
+Static Platform 740 877.5 40 11.25 index=47
+Static Platform 780 877.5 40 11.25 index=48
+Static Platform 820 877.5 40 11.25 index=49
+Static Platform 860 877.5 40 11.25 index=50
+Static Platform 900 877.5 40 11.25 index=51
+Static Platform 940 877.5 40 11.25 index=52
+Static Platform 1060 877.5 40 11.25 index=53
+Static Platform 1100 877.5 40 11.25 index=54
+Static Platform 1140 877.5 40 11.25 index=55
+Static Platform 1180 877.5 40 11.25 index=56
+Static Platform 1220 877.5 40 11.25 index=57
+Static Platform 1260 877.5 40 11.25 index=58
+Static Platform 440 866.25 40 11.25 index=59
+Static Platform 480 866.25 40 11.25 index=60
+Static Platform 520 866.25 40 11.25 index=61
+Static Platform 560 866.25 40 11.25 index=62
+Static Platform 600 866.25 40 11.25 index=63
+Static Platform 640 866.25 40 11.25 index=64
+Static Platform 680 866.25 40 11.25 index=65
+Static Platform 720 866.25 40 11.25 index=66
+Static Platform 760 866.25 40 11.25 index=67
+Static Platform 800 866.25 40 11.25 index=68
+Static Platform 840 866.25 40 11.25 index=69
+Static Platform 880 866.25 40 11.25 index=70
+Static Platform 920 866.25 40 11.25 index=71
+Static Platform 1080 866.25 40 11.25 index=72
+Static Platform 1120 866.25 40 11.25 index=73
+Static Platform 540 855 40 11.25 index=74
+Static Platform 580 855 40 11.25 index=75
+Static Platform 620 855 40 11.25 index=76
+Static Platform 660 855 40 11.25 index=77
+Static Platform 700 855 40 11.25 index=78
+Static Platform 740 855 40 11.25 index=79
+Static Platform 560 843.75 40 11.25 index=80
+Static Platform 600 843.75 40 11.25 index=81
+Static Platform 640 843.75 40 11.25 index=82
+Static Platform 680 843.75 40 11.25 index=83
+Static Platform 720 843.75 40 11.25 index=84
+Static Platform 580 832.5 40 11.25 index=85
+Static Platform 620 832.5 40 11.25 index=86
+Static Platform 660 832.5 40 11.25 index=87
+Static Platform 980 832.5 40 11.25 index=88
+Wall 0 866.25 20 22.5 index=89
+Wall 0 -1181.25 20 22.5 index=90
+Wall 0 -1158.75 20 22.5 index=91
+Wall 0 -1136.25 20 22.5 index=92
+Wall 0 -1113.75 20 22.5 index=93
+Wall 0 -1091.25 20 22.5 index=94
+Wall 0 -1068.75 20 22.5 index=95
+Wall 0 -1046.25 20 22.5 index=96
+Wall 0 -1023.75 20 22.5 index=97
+Wall 0 -1001.25 20 22.5 index=98
+Wall 0 -978.75 20 22.5 index=99
+Wall 0 -956.25 20 22.5 index=100
+Wall 0 -933.75 20 22.5 index=101
+Wall 0 -911.25 20 22.5 index=102
+Wall 0 -888.75 20 22.5 index=103
+Wall 0 -866.25 20 22.5 index=104
+Wall 0 -843.75 20 22.5 index=105
+Wall 0 -821.25 20 22.5 index=106
+Wall 0 -798.75 20 22.5 index=107
+Wall 0 -776.25 20 22.5 index=108
+Wall 0 -753.75 20 22.5 index=109
+Wall 0 -731.25 20 22.5 index=110
+Wall 0 -708.75 20 22.5 index=111
+Wall 0 -686.25 20 22.5 index=112
+Wall 0 -663.75 20 22.5 index=113
+Wall 0 -641.25 20 22.5 index=114
+Wall 0 -618.75 20 22.5 index=115
+Wall 0 -596.25 20 22.5 index=116
+Wall 0 -573.75 20 22.5 index=117
+Wall 0 -551.25 20 22.5 index=118
+Wall 0 -528.75 20 22.5 index=119
+Wall 0 -506.25 20 22.5 index=120
+Wall 0 -483.75 20 22.5 index=121
+Wall 0 -461.25 20 22.5 index=122
+Wall 0 -438.75 20 22.5 index=123
+Wall 0 -416.25 20 22.5 index=124
+Wall 0 -393.75 20 22.5 index=125
+Wall 0 -371.25 20 22.5 index=126
+Wall 0 -348.75 20 22.5 index=127
+Wall 0 -326.25 20 22.5 index=128
+Wall 0 -303.75 20 22.5 index=129
+Wall 0 -281.25 20 22.5 index=130
+Wall 0 -258.75 20 22.5 index=131
+Wall 0 -236.25 20 22.5 index=132
+Wall 0 -213.75 20 22.5 index=133
+Wall 0 -191.25 20 22.5 index=134
+Wall 0 -168.75 20 22.5 index=135
+Wall 0 -146.25 20 22.5 index=136
+Wall 0 -123.75 20 22.5 index=137
+Wall 0 -101.25 20 22.5 index=138
+Wall 0 -78.75 20 22.5 index=139
+Wall 0 -56.25 20 22.5 index=140
+Wall 0 -33.75 20 22.5 index=141
+Wall 0 -11.25 20 22.5 index=142
+Wall 0 11.25 20 22.5 index=143
+Wall 0 33.75 20 22.5 index=144
+Wall 0 56.25 20 22.5 index=145
+Wall 0 78.75 20 22.5 index=146
+Wall 0 101.25 20 22.5 index=147
+Wall 0 123.75 20 22.5 index=148
+Wall 0 146.25 20 22.5 index=149
+Wall 0 168.75 20 22.5 index=150
+Wall 0 191.25 20 22.5 index=151
+Wall 0 213.75 20 22.5 index=152
+Wall 0 236.25 20 22.5 index=153
+Wall 0 258.75 20 22.5 index=154
+Wall 0 281.25 20 22.5 index=155
+Wall 0 303.75 20 22.5 index=156
+Wall 0 326.25 20 22.5 index=157
+Wall 0 348.75 20 22.5 index=158
+Wall 0 371.25 20 22.5 index=159
+Wall 0 393.75 20 22.5 index=160
+Wall 0 416.25 20 22.5 index=161
+Wall 0 438.75 20 22.5 index=162
+Wall 0 461.25 20 22.5 index=163
+Wall 0 483.75 20 22.5 index=164
+Wall 0 506.25 20 22.5 index=165
+Wall 0 528.75 20 22.5 index=166
+Wall 0 551.25 20 22.5 index=167
+Wall 0 573.75 20 22.5 index=168
+Wall 0 596.25 20 22.5 index=169
+Wall 0 618.75 20 22.5 index=170
+Wall 0 641.25 20 22.5 index=171
+Wall 0 663.75 20 22.5 index=172
+Wall 0 686.25 20 22.5 index=173
+Wall 0 708.75 20 22.5 index=174
+Wall 0 731.25 20 22.5 index=175
+Wall 0 753.75 20 22.5 index=176
+Wall 0 776.25 20 22.5 index=177
+Wall 0 798.75 20 22.5 index=178
+Wall 0 821.25 20 22.5 index=179
+Wall 0 843.75 20 22.5 index=180
+Wall 0 -1203.75 20 22.5 index=181
+Wall 0 -1338.75 20 22.5 index=182
+Wall 0 -1316.25 20 22.5 index=183
+Wall 0 -1293.75 20 22.5 index=184
+Wall 0 -1271.25 20 22.5 index=185
+Wall 0 -1248.75 20 22.5 index=186
+Wall 0 -1226.25 20 22.5 index=187
+Wall 1580 -1338.75 20 22.5 index=188
+Wall 1580 -1316.25 20 22.5 index=189
+Wall 1580 -1293.75 20 22.5 index=190
+Wall 1580 -1271.25 20 22.5 index=191
+Wall 1580 -1248.75 20 22.5 index=192
+Wall 1580 -1226.25 20 22.5 index=193
+Wall 1580 -1203.75 20 22.5 index=194
+Wall 1580 -1181.25 20 22.5 index=195
+Wall 1580 -1158.75 20 22.5 index=196
+Wall 1580 -1136.25 20 22.5 index=197
+Wall 1580 -1113.75 20 22.5 index=198
+Wall 1580 -1091.25 20 22.5 index=199
+Wall 1580 -1068.75 20 22.5 index=200
+Wall 1580 -1046.25 20 22.5 index=201
+Wall 1580 -1023.75 20 22.5 index=202
+Wall 1580 -1001.25 20 22.5 index=203
+Wall 1580 -978.75 20 22.5 index=204
+Wall 1580 -956.25 20 22.5 index=205
+Wall 1580 -933.75 20 22.5 index=206
+Wall 1580 -911.25 20 22.5 index=207
+Wall 1580 -888.75 20 22.5 index=208
+Wall 1580 -866.25 20 22.5 index=209
+Wall 1580 -843.75 20 22.5 index=210
+Wall 1580 -821.25 20 22.5 index=211
+Wall 1580 -798.75 20 22.5 index=212
+Wall 1580 -776.25 20 22.5 index=213
+Wall 1580 -753.75 20 22.5 index=214
+Wall 1580 -731.25 20 22.5 index=215
+Wall 1580 -708.75 20 22.5 index=216
+Wall 1580 -686.25 20 22.5 index=217
+Wall 1580 -663.75 20 22.5 index=218
+Wall 1580 -641.25 20 22.5 index=219
+Wall 1580 -618.75 20 22.5 index=220
+Wall 1580 -596.25 20 22.5 index=221
+Wall 1580 -573.75 20 22.5 index=222
+Wall 1580 -551.25 20 22.5 index=223
+Wall 1580 -528.75 20 22.5 index=224
+Wall 1580 -506.25 20 22.5 index=225
+Wall 1580 -483.75 20 22.5 index=226
+Wall 1580 -461.25 20 22.5 index=227
+Wall 1580 -438.75 20 22.5 index=228
+Wall 1580 -416.25 20 22.5 index=229
+Wall 1580 -393.75 20 22.5 index=230
+Wall 1580 -371.25 20 22.5 index=231
+Wall 1580 -348.75 20 22.5 index=232
+Wall 1580 -326.25 20 22.5 index=233
+Wall 1580 -303.75 20 22.5 index=234
+Wall 1580 -281.25 20 22.5 index=235
+Wall 1580 -258.75 20 22.5 index=236
+Wall 1580 -236.25 20 22.5 index=237
+Wall 1580 -213.75 20 22.5 index=238
+Wall 1580 -191.25 20 22.5 index=239
+Wall 1580 -168.75 20 22.5 index=240
+Wall 1580 -146.25 20 22.5 index=241
+Wall 1580 -123.75 20 22.5 index=242
+Wall 1580 -101.25 20 22.5 index=243
+Wall 1580 -78.75 20 22.5 index=244
+Wall 1580 -56.25 20 22.5 index=245
+Wall 1580 -33.75 20 22.5 index=246
+Wall 1580 -11.25 20 22.5 index=247
+Wall 1580 11.25 20 22.5 index=248
+Wall 1580 33.75 20 22.5 index=249
+Wall 1580 56.25 20 22.5 index=250
+Wall 1580 78.75 20 22.5 index=251
+Wall 1580 101.25 20 22.5 index=252
+Wall 1580 123.75 20 22.5 index=253
+Wall 1580 146.25 20 22.5 index=254
+Wall 1580 168.75 20 22.5 index=255
+Wall 1580 191.25 20 22.5 index=256
+Wall 1580 213.75 20 22.5 index=257
+Wall 1580 236.25 20 22.5 index=258
+Wall 1580 258.75 20 22.5 index=259
+Wall 1580 281.25 20 22.5 index=260
+Wall 1580 303.75 20 22.5 index=261
+Wall 1580 326.25 20 22.5 index=262
+Wall 1580 348.75 20 22.5 index=263
+Wall 1580 371.25 20 22.5 index=264
+Wall 1580 393.75 20 22.5 index=265
+Wall 1580 416.25 20 22.5 index=266
+Wall 1580 438.75 20 22.5 index=267
+Wall 1580 461.25 20 22.5 index=268
+Wall 1580 483.75 20 22.5 index=269
+Wall 1580 506.25 20 22.5 index=270
+Wall 1580 528.75 20 22.5 index=271
+Wall 1580 551.25 20 22.5 index=272
+Wall 1580 573.75 20 22.5 index=273
+Wall 1580 596.25 20 22.5 index=274
+Wall 1580 618.75 20 22.5 index=275
+Wall 1580 641.25 20 22.5 index=276
+Wall 1580 663.75 20 22.5 index=277
+Wall 1580 686.25 20 22.5 index=278
+Wall 1580 708.75 20 22.5 index=279
+Wall 1580 731.25 20 22.5 index=280
+Wall 1580 753.75 20 22.5 index=281
+Wall 1580 776.25 20 22.5 index=282
+Wall 1580 798.75 20 22.5 index=283
+Wall 1580 821.25 20 22.5 index=284
+Wall 1580 843.75 20 22.5 index=285
+Wall 1580 866.25 20 22.5 index=286
+Static Platform 320 596.25 40 11.25 index=287
+Static Platform 480 596.25 40 11.25 index=288
+Static Platform 920 506.25 40 11.25 index=289
+Static Platform 1040 506.25 40 11.25 index=290
+Static Platform 1080 247.5 40 11.25 index=291
+Static Platform 1160 247.5 40 11.25 index=292
+Static Platform 460 348.75 40 11.25 index=293
+Static Platform 100 247.5 40 11.25 index=294
+Static Platform 180 247.5 40 11.25 index=295
+Static Platform 1340 168.75 40 11.25 index=296
+Static Platform 1420 168.75 40 11.25 index=297
+Static Platform 660 101.25 40 11.25 index=298
+Static Platform 700 101.25 40 11.25 index=299
+Static Platform 740 101.25 40 11.25 index=300
+Static Platform 240 0 40 11.25 index=301
+Static Platform 280 0 40 11.25 index=302
+Static Platform 320 0 40 11.25 index=303
+Static Platform 360 0 40 11.25 index=304
+Static Platform 400 0 40 11.25 index=305
+Static Platform 440 0 40 11.25 index=306
+Static Platform 480 0 40 11.25 index=307
+Static Platform 520 0 40 11.25 index=308
+Static Platform 560 0 40 11.25 index=309
+Static Platform 20 0 40 11.25 index=310
+Static Platform 60 0 40 11.25 index=311
+Static Platform 100 0 40 11.25 index=312
+Static Platform 680 0 40 11.25 index=313
+Static Platform 720 0 40 11.25 index=314
+Static Platform 760 0 40 11.25 index=315
+Static Platform 800 0 40 11.25 index=316
+Static Platform 840 0 40 11.25 index=317
+Static Platform 880 0 40 11.25 index=318
+Static Platform 920 0 40 11.25 index=319
+Static Platform 1040 0 40 11.25 index=320
+Static Platform 1080 0 40 11.25 index=321
+Static Platform 1120 0 40 11.25 index=322
+Static Platform 1300 0 40 11.25 index=323
+Static Platform 1340 0 40 11.25 index=324
+Static Platform 1380 0 40 11.25 index=325
+Static Platform 1420 0 40 11.25 index=326
+Static Platform 1460 0 40 11.25 index=327
+Static Platform 1500 0 40 11.25 index=328
+Static Platform 1540 0 40 11.25 index=329
+Static Platform 1460 -123.75 40 11.25 index=330
+Static Platform 1380 -123.75 40 11.25 index=331
+Static Platform 1420 -123.75 40 11.25 index=332
+Static Platform 1280 -168.75 40 11.25 index=333
+Static Platform 1200 -168.75 40 11.25 index=334
+Static Platform 1240 -168.75 40 11.25 index=335
+Static Platform 1140 -225 40 11.25 index=336
+Static Platform 1060 -225 40 11.25 index=337
+Static Platform 1100 -225 40 11.25 index=338
+Static Platform 1240 -258.75 40 11.25 index=339
+Static Platform 1280 -258.75 40 11.25 index=340
+Static Platform 1320 -258.75 40 11.25 index=341
+Static Platform 1360 -258.75 40 11.25 index=342
+Bouncing Platform 1400 -258.75 40 11.25 index=343
+Static Platform 1440 -258.75 40 11.25 index=344
+Static Platform 1300 -461.25 40 11.25 index=345
+Static Platform 1220 -461.25 40 11.25 index=346
+Static Platform 1260 -461.25 40 11.25 index=347
+Spike Platform 1460 -461.25 40 11.25 index=348
+Static Platform 1540 -528.75 40 11.25 index=349
+Spike Platform 1460 -596.25 40 11.25 index=350
+Spike Platform 1420 -596.25 40 11.25 index=351
+Static Platform 1380 -596.25 40 11.25 index=352
+Static Platform 1340 -596.25 40 11.25 index=353
+Static Platform 1280 -641.25 40 11.25 index=354
+Static Platform 1200 -641.25 40 11.25 index=355
+Static Platform 1240 -641.25 40 11.25 index=356
+Conveyor Platform 1200 -697.5 40 11.25 index=357
+Conveyor Platform 1120 -697.5 40 11.25 index=358
+Conveyor Platform 1160 -697.5 40 11.25 index=359
+Conveyor Platform 1280 -753.75 40 11.25 index=360
+Conveyor Platform 1320 -753.75 40 11.25 index=361
+Conveyor Platform 1360 -753.75 40 11.25 index=362
+Conveyor Platform 1400 -753.75 40 11.25 index=363
+Static Platform 1200 -821.25 40 11.25 index=364
+Static Platform 1120 -821.25 40 11.25 index=365
+Static Platform 1160 -821.25 40 11.25 index=366
+Wall 1060 -832.5 20 22.5 index=367
+Wall 1060 -1102.5 20 22.5 index=368
+Wall 1060 -1080 20 22.5 index=369
+Wall 1060 -1057.5 20 22.5 index=370
+Wall 1060 -1035 20 22.5 index=371
+Wall 1060 -1012.5 20 22.5 index=372
+Wall 1060 -990 20 22.5 index=373
+Wall 1060 -967.5 20 22.5 index=374
+Wall 1060 -945 20 22.5 index=375
+Wall 1060 -922.5 20 22.5 index=376
+Wall 1060 -900 20 22.5 index=377
+Wall 1060 -877.5 20 22.5 index=378
+Wall 1060 -855 20 22.5 index=379
+Wall 1140 -922.5 20 22.5 index=380
+Wall 1140 -1147.5 20 22.5 index=381
+Wall 1140 -1125 20 22.5 index=382
+Wall 1140 -1102.5 20 22.5 index=383
+Wall 1140 -1080 20 22.5 index=384
+Wall 1140 -1057.5 20 22.5 index=385
+Wall 1140 -1035 20 22.5 index=386
+Wall 1140 -1012.5 20 22.5 index=387
+Wall 1140 -990 20 22.5 index=388
+Wall 1140 -967.5 20 22.5 index=389
+Wall 1140 -945 20 22.5 index=390
+Wall 980 -1102.5 20 22.5 index=391
+Wall 980 -1215 20 22.5 index=392
+Wall 980 -1192.5 20 22.5 index=393
+Wall 980 -1170 20 22.5 index=394
+Wall 980 -1147.5 20 22.5 index=395
+Wall 980 -1125 20 22.5 index=396
+Wall 1060 -1192.5 20 22.5 index=397
+Wall 1060 -1260 20 22.5 index=398
+Wall 1060 -1237.5 20 22.5 index=399
+Wall 1060 -1215 20 22.5 index=400
+Static Platform 1060 -1271.25 40 11.25 index=401
+Static Platform 1100 -1271.25 40 11.25 index=402
+Static Platform 1140 -1271.25 40 11.25 index=403
+Static Platform 1180 -1271.25 40 11.25 index=404
+Static Platform 1220 -1271.25 40 11.25 index=405
+Static Platform 1260 -1271.25 40 11.25 index=406
+Static Platform 1300 -1271.25 40 11.25 index=407
+Static Platform 1340 -1271.25 40 11.25 index=408
+Static Platform 1380 -1271.25 40 11.25 index=409
+Static Platform 1420 -1271.25 40 11.25 index=410
+Static Platform 1460 -1271.25 40 11.25 index=411
+Static Platform 1500 -1271.25 40 11.25 index=412
+Static Platform 1540 -1271.25 40 11.25 index=413
+Static Platform 860 -123.75 40 11.25 index=414
+Static Platform 900 -123.75 40 11.25 index=415
+Static Platform 140 -56.25 40 11.25 index=416
+Static Platform 180 -56.25 40 11.25 index=417
+Static Platform 220 -56.25 40 11.25 index=418
+Disappearing Platform 20 -112.5 40 11.25 index=419
+Disappearing Platform 60 -112.5 40 11.25 index=420
+Disappearing Platform 100 -191.25 40 11.25 index=421
+Disappearing Platform 140 -191.25 40 11.25 index=422
+Disappearing Platform 180 -191.25 40 11.25 index=423
+Disappearing Platform 220 -191.25 40 11.25 index=424
+Disappearing Platform 260 -191.25 40 11.25 index=425
+Static Platform 300 -191.25 40 11.25 index=426
+Disappearing Platform 380 -225 40 11.25 index=427
+Disappearing Platform 420 -225 40 11.25 index=428
+Disappearing Platform 460 -225 40 11.25 index=429
+Disappearing Platform 500 -281.25 40 11.25 index=430
+Spike Platform 540 -281.25 40 11.25 index=431
+Spike Platform 580 -281.25 40 11.25 index=432
+Disappearing Platform 640 -337.5 40 11.25 index=433
+Disappearing Platform 680 -337.5 40 11.25 index=434
+Disappearing Platform 720 -337.5 40 11.25 index=435
+Disappearing Platform 560 -382.5 40 11.25 index=436
+Disappearing Platform 480 -382.5 40 11.25 index=437
+Disappearing Platform 520 -382.5 40 11.25 index=438
+Static Platform 400 -382.5 40 11.25 index=439
+Spike Platform 440 -382.5 40 11.25 index=440
+Spike Platform 360 -382.5 40 11.25 index=441
+Spike Platform 320 -382.5 40 11.25 index=442
+Disappearing Platform 260 -427.5 40 11.25 index=443
+Disappearing Platform 180 -427.5 40 11.25 index=444
+Disappearing Platform 220 -427.5 40 11.25 index=445
+Disappearing Platform 120 -483.75 40 11.25 index=446
+Disappearing Platform 40 -483.75 40 11.25 index=447
+Disappearing Platform 80 -483.75 40 11.25 index=448
+Wall 80 -562.5 20 22.5 index=449
+Wall 80 -720 20 22.5 index=450
+Wall 80 -697.5 20 22.5 index=451
+Wall 80 -675 20 22.5 index=452
+Wall 80 -652.5 20 22.5 index=453
+Wall 80 -630 20 22.5 index=454
+Wall 80 -607.5 20 22.5 index=455
+Wall 80 -585 20 22.5 index=456
+Spike Platform 80 -731.25 40 11.25 index=457
+Spike Platform 120 -731.25 40 11.25 index=458
+Disappearing Platform 180 -753.75 40 11.25 index=459
+Disappearing Platform 220 -753.75 40 11.25 index=460
+Static Platform 260 -753.75 40 11.25 index=461
+Disappearing Platform 300 -753.75 40 11.25 index=462
+Disappearing Platform 340 -753.75 40 11.25 index=463
+Disappearing Platform 400 -798.75 40 11.25 index=464
+Disappearing Platform 440 -798.75 40 11.25 index=465
+Disappearing Platform 340 -843.75 40 11.25 index=466
+Disappearing Platform 260 -843.75 40 11.25 index=467
+Disappearing Platform 300 -843.75 40 11.25 index=468
+Static Platform 200 -888.75 40 11.25 index=469
+Disappearing Platform 160 -888.75 40 11.25 index=470
+Disappearing Platform 40 -888.75 40 11.25 index=471
+Disappearing Platform 80 -888.75 40 11.25 index=472
+Disappearing Platform 120 -888.75 40 11.25 index=473
+Spike Platform 100 -967.5 40 11.25 index=474
+Spike Platform 140 -967.5 40 11.25 index=475
+Static Platform 180 -967.5 40 11.25 index=476
+Disappearing Platform 240 -1012.5 40 11.25 index=477
+Disappearing Platform 280 -1012.5 40 11.25 index=478
+Disappearing Platform 320 -1012.5 40 11.25 index=479
+Disappearing Platform 360 -1012.5 40 11.25 index=480
+Disappearing Platform 400 -1012.5 40 11.25 index=481
+Disappearing Platform 440 -1012.5 40 11.25 index=482
+Disappearing Platform 480 -1012.5 40 11.25 index=483
+Spike Platform 520 -1012.5 40 11.25 index=484
+Disappearing Platform 520 -1136.25 40 11.25 index=485
+Disappearing Platform 400 -1136.25 40 11.25 index=486
+Disappearing Platform 440 -1136.25 40 11.25 index=487
+Disappearing Platform 480 -1136.25 40 11.25 index=488
+Spike Platform 320 -1181.25 40 11.25 index=489
+Static Platform 280 -1181.25 40 11.25 index=490
+Static Platform 80 -1181.25 40 11.25 index=491
+Static Platform 120 -1181.25 40 11.25 index=492
+Static Platform 160 -1181.25 40 11.25 index=493
+Static Platform 200 -1181.25 40 11.25 index=494
+Static Platform 240 -1181.25 40 11.25 index=495
+Disappearing Platform 20 -1237.5 40 11.25 index=496
+Disappearing Platform 60 -1237.5 40 11.25 index=497
+Static Platform 120 -1271.25 40 11.25 index=498
+Static Platform 160 -1271.25 40 11.25 index=499
+Static Platform 200 -1271.25 40 11.25 index=500
+Static Platform 240 -1271.25 40 11.25 index=501
+Static Platform 280 -1271.25 40 11.25 index=502
+Static Platform 320 -1271.25 40 11.25 index=503
+Static Platform 360 -1271.25 40 11.25 index=504
+Static Platform 400 -1271.25 40 11.25 index=505
+Static Platform 440 -1271.25 40 11.25 index=506
+Static Platform 480 -1271.25 40 11.25 index=507
+Static Platform 520 -1271.25 40 11.25 index=508
+Static Platform 560 -1271.25 40 11.25 index=509
+Static Platform 600 -1271.25 40 11.25 index=510
+Static Platform 640 -1271.25 40 11.25 index=511
+Static Platform 680 -1271.25 40 11.25 index=512
+Time Slower 220 -1192.5 10 5.625 index=513
+Fly Nest 100 -1102.5 60 60 index=514
+Fly Nest 1480 -877.5 60 60 index=515
+Fly Nest 300 -630 60 60 index=516
+Fly Nest 60 -393.75 60 60 index=517
+Fly Nest 1280 -393.75 60 60 index=518
+Fly Nest 540 -168.75 60 60 index=519
+Static Platform 800 551.25 40 11.25 index=520
+Static Platform 840 551.25 40 11.25 index=521
+Static Platform 700 427.5 40 11.25 index=522
+Static Platform 580 382.5 40 11.25 index=523
+Static Platform 20 382.5 40 11.25 index=524
+Static Platform 140 168.75 40 11.25 index=525
+Static Platform 960 202.5 40 11.25 index=526
+Static Platform 1220 78.75 40 11.25 index=527
+Static Platform 1320 371.25 40 11.25 index=528
+Moving Platform 1320 877.5 40 11.25 index=529 patrolStart=1320,877.5 patrolEnd=1320,506.25 movementDir=0,-1
+Moving Platform 1000 742.5 40 11.25 index=530 patrolStart=1000,742.5 patrolEnd=880,551.25 movementDir=-0.531491,-0.847064
+Moving Platform 1080 495 40 11.25 index=531 patrolStart=1080,495 patrolEnd=1280,371.25 movementDir=0.850378,-0.526172
+Moving Platform 1380 168.75 40 11.25 index=532 patrolStart=1380,168.75 patrolEnd=1380,371.25 movementDir=0,1
+Moving Platform 840 843.75 40 11.25 index=533 patrolStart=840,843.75 patrolEnd=520,596.25 movementDir=-0.791013,-0.611799
+Moving Platform 260 596.25 40 11.25 index=534 patrolStart=260,596.25 patrolEnd=60,382.5 movementDir=-0.683231,-0.730203
+Moving Platform 20 157.5 40 11.25 index=535 patrolStart=20,157.5 patrolEnd=180,0 movementDir=0.712652,-0.701517
+Fly Nest 780 258.75 60 60 index=536
+Moving Platform 400 348.75 40 11.25 index=537 patrolStart=400,348.75 patrolEnd=620,101.25 movementDir=0.664364,-0.747409
+Static Platform 800 450 40 11.25 index=538
+Player Start 1460 854 20 34.75 index=539
+Static Platform 1260 506.25 40 11.25 index=540
+Static Platform 0 -1350 40 11.25 index=541
+Static Platform 40 -1350 40 11.25 index=542
+Static Platform 80 -1350 40 11.25 index=543
+Static Platform 120 -1350 40 11.25 index=544
+Static Platform 160 -1350 40 11.25 index=545
+Static Platform 200 -1350 40 11.25 index=546
+Static Platform 240 -1350 40 11.25 index=547
+Static Platform 280 -1350 40 11.25 index=548
+Static Platform 320 -1350 40 11.25 index=549
+Static Platform 360 -1350 40 11.25 index=550
+Static Platform 400 -1350 40 11.25 index=551
+Static Platform 440 -1350 40 11.25 index=552
+Static Platform 480 -1350 40 11.25 index=553
+Static Platform 520 -1350 40 11.25 index=554
+Static Platform 640 -1350 40 11.25 index=555
+Static Platform 680 -1350 40 11.25 index=556
+Static Platform 720 -1350 40 11.25 index=557
+Static Platform 760 -1350 40 11.25 index=558
+Static Platform 800 -1350 40 11.25 index=559
+Static Platform 840 -1350 40 11.25 index=560
+Static Platform 880 -1350 40 11.25 index=561
+Static Platform 920 -1350 40 11.25 index=562
+Static Platform 960 -1350 40 11.25 index=563
+Static Platform 1080 -1350 40 11.25 index=564
+Static Platform 1120 -1350 40 11.25 index=565
+Static Platform 1160 -1350 40 11.25 index=566
+Static Platform 1200 -1350 40 11.25 index=567
+Static Platform 1240 -1350 40 11.25 index=568
+Static Platform 1280 -1350 40 11.25 index=569
+Static Platform 1320 -1350 40 11.25 index=570
+Static Platform 1360 -1350 40 11.25 index=571
+Static Platform 1400 -1350 40 11.25 index=572
+Static Platform 1440 -1350 40 11.25 index=573
+Static Platform 1480 -1350 40 11.25 index=574
+Static Platform 1520 -1350 40 11.25 index=575
+Static Platform 1560 -1350 40 11.25 index=576
