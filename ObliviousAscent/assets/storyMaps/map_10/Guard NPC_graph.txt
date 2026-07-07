@@ -1,0 +1,1996 @@
+Platform at 3
+Number of edges: 0
+
+Platform at 4
+Number of edges: 2
+5 160 0 1
+239 -53.0367 -349.332 8
+
+Platform at 5
+Number of edges: 3
+4 -160 0 1
+6 160 0 1
+239 -87.685 -351.998 8
+
+Platform at 6
+Number of edges: 3
+5 -160 0 1
+7 160 0 1
+239 -149.288 -293.332 8
+
+Platform at 7
+Number of edges: 3
+6 -160 0 1
+8 160 0 1
+239 -197.825 -285.332 8
+
+Platform at 8
+Number of edges: 3
+7 -160 0 1
+9 290.325 -165.332 8
+239 -241.787 -285.332 8
+
+Platform at 9
+Number of edges: 2
+8 -290.325 -165.332 8
+10 160 0 1
+
+Platform at 10
+Number of edges: 2
+9 -160 0 1
+11 160 0 1
+
+Platform at 11
+Number of edges: 2
+10 -160 0 1
+12 160 0 1
+
+Platform at 12
+Number of edges: 2
+11 -160 0 1
+13 160 0 1
+
+Platform at 13
+Number of edges: 2
+12 -160 0 1
+14 160 0 1
+
+Platform at 14
+Number of edges: 2
+13 -160 0 1
+15 160 0 1
+
+Platform at 15
+Number of edges: 3
+14 -160 0 1
+16 160 0 1
+246 -52.9961 -389.332 8
+
+Platform at 16
+Number of edges: 2
+15 -160 0 1
+17 160 0 1
+
+Platform at 17
+Number of edges: 2
+16 -160 0 1
+18 160 0 1
+
+Platform at 18
+Number of edges: 2
+17 -160 0 1
+19 160 0 1
+
+Platform at 19
+Number of edges: 2
+18 -160 0 1
+20 160 0 1
+
+Platform at 20
+Number of edges: 2
+19 -160 0 1
+21 160 0 1
+
+Platform at 21
+Number of edges: 2
+20 -160 0 1
+22 160 0 1
+
+Platform at 22
+Number of edges: 2
+21 -160 0 1
+23 160 0 1
+
+Platform at 23
+Number of edges: 3
+22 -160 0 1
+24 160 0 1
+250 -279.253 -309.332 8
+
+Platform at 24
+Number of edges: 4
+23 -160 0 1
+25 160 0 1
+250 -349.067 -309.332 8
+253 -89.9036 -418.665 8
+
+Platform at 25
+Number of edges: 3
+24 -160 0 1
+26 160 0 1
+253 -134.855 -418.665 8
+
+Platform at 26
+Number of edges: 3
+25 -160 0 1
+27 160 0 1
+253 -179.807 -418.665 8
+
+Platform at 27
+Number of edges: 3
+26 -160 0 1
+28 160 0 1
+253 -224.759 -418.665 8
+
+Platform at 28
+Number of edges: 3
+27 -160 0 1
+29 160 0 1
+241 192.907 -351.998 8
+
+Platform at 29
+Number of edges: 4
+28 -160 0 1
+30 160 0 1
+241 157.833 -351.998 8
+243 190.855 -365.332 8
+
+Platform at 30
+Number of edges: 4
+29 -160 0 1
+31 160 0 1
+241 122.759 -351.998 8
+243 157.441 -362.665 8
+
+Platform at 31
+Number of edges: 4
+30 -160 0 1
+32 160 0 1
+241 87.685 -351.998 8
+243 122.454 -362.665 8
+
+Platform at 32
+Number of edges: 3
+31 -160 0 1
+241 53.0367 -349.332 8
+243 88.1952 -359.998 8
+
+Platform at 33
+Number of edges: 0
+
+Platform at 233
+Number of edges: 1
+234 160 0 1
+
+Platform at 234
+Number of edges: 2
+233 -160 0 1
+235 160 0 1
+
+Platform at 235
+Number of edges: 3
+234 -160 0 1
+236 160 0 1
+697 193.36 -341.332 8
+
+Platform at 236
+Number of edges: 5
+235 -160 0 1
+694 130 0 2
+695 50 0 2
+696 50 0 2
+697 159.45 -338.665 8
+
+Platform at 237
+Number of edges: 1
+238 160 0 1
+
+Platform at 238
+Number of edges: 2
+237 -160 0 1
+239 160 0 1
+
+Platform at 239
+Number of edges: 4
+238 -160 0 1
+3 50 0 2
+4 50 0 2
+5 180 0 2
+
+Platform at 240
+Number of edges: 1
+243 -50.1622 -253.332 8
+
+Platform at 241
+Number of edges: 4
+31 -180 0 2
+32 -50 0 2
+33 -50 0 2
+243 50.1622 -253.332 8
+
+Platform at 243
+Number of edges: 5
+31 -270 0 2
+32 -220 0 2
+33 -220 0 2
+240 50 0 2
+241 -50 0 2
+
+Platform at 244
+Number of edges: 5
+245 160 0 1
+247 157.441 -362.665 8
+676 206.392 -429.331 8
+689 -70.5562 -359.998 8
+700 -115.507 -402.665 8
+
+Platform at 245
+Number of edges: 6
+244 -160 0 1
+246 160 0 1
+247 122.454 -362.665 8
+676 136.188 -450.665 8
+689 -105.834 -359.998 8
+700 -161.709 -402.665 8
+
+Platform at 246
+Number of edges: 8
+245 -160 0 1
+14 50 0 2
+15 50 0 2
+16 90 0 2
+247 88.1952 -359.998 8
+676 88.1154 -469.331 8
+689 -139.948 -362.665 8
+700 -207.912 -402.665 8
+
+Platform at 247
+Number of edges: 6
+14 -50 0 2
+15 -50 0 2
+245 -270 0 2
+246 -120 0 2
+248 160 0 1
+251 215.257 -298.665 8
+
+Platform at 248
+Number of edges: 3
+247 -160 0 1
+249 160 0 1
+251 131.133 -335.999 8
+
+Platform at 249
+Number of edges: 3
+248 -160 0 1
+250 160 0 1
+251 70.6614 -389.332 8
+
+Platform at 250
+Number of edges: 7
+249 -160 0 1
+20 50 0 2
+21 50 0 2
+22 110 0 2
+23 190 0 2
+24 270 0 2
+677 -72.6722 -442.665 8
+
+Platform at 251
+Number of edges: 6
+247 -220 0 2
+248 -130 0 2
+249 -50 0 2
+250 -50 0 2
+252 160 0 1
+677 -124.042 -359.998 8
+
+Platform at 252
+Number of edges: 3
+251 -160 0 1
+253 160 0 1
+677 -165.389 -359.998 8
+
+Platform at 253
+Number of edges: 6
+252 -160 0 1
+23 50 0 2
+24 50 0 2
+25 90 0 2
+26 150 0 2
+27 210 0 2
+
+Platform at 256
+Number of edges: 0
+
+Platform at 257
+Number of edges: 4
+251 -320 0 2
+256 -50 0 2
+258 160 0 1
+260 -70.6614 -389.332 8
+
+Platform at 258
+Number of edges: 3
+257 -160 0 1
+259 160 0 1
+260 -105.992 -389.332 8
+
+Platform at 259
+Number of edges: 2
+258 -160 0 1
+260 -140.037 -391.998 8
+
+Platform at 260
+Number of edges: 5
+257 50 0 2
+258 130 0 2
+259 220 0 2
+261 -160 0 1
+276 -53.5495 -466.665 8
+
+Platform at 261
+Number of edges: 2
+260 160 0 1
+281 71.3993 -466.665 8
+
+Platform at 265
+Number of edges: 2
+266 -160 0 1
+746 -123.155 -439.998 8
+
+Platform at 266
+Number of edges: 4
+265 160 0 1
+273 53.5493 -66.6653 8
+746 -88.9519 -37.3319 8
+267 -160 0 1
+
+Platform at 267
+Number of edges: 4
+266 160 0 1
+268 -160 0 1
+273 88.1154 -469.331 8
+746 -53.3712 -437.331 8
+
+Platform at 268
+Number of edges: 6
+267 160 0 1
+273 123.362 -469.331 8
+701 -310 0 2
+702 -220 0 2
+703 -130 0 2
+704 -50 0 2
+
+Platform at 269
+Number of edges: 4
+272 -160 0 1
+273 204.428 -327.999 8
+277 -182.634 -341.332 8
+746 160 0 1
+
+Platform at 270
+Number of edges: 4
+271 160 0 1
+277 -53.1254 -378.665 8
+301 -130.774 -434.665 8
+302 87.1827 -434.665 8
+
+Platform at 271
+Number of edges: 4
+270 -160 0 1
+272 160 0 1
+277 -88.5423 -378.665 8
+301 -174.365 -434.665 8
+
+Platform at 272
+Number of edges: 3
+269 160 0 1
+271 -160 0 1
+277 -123.959 -378.665 8
+
+Platform at 273
+Number of edges: 7
+266 -50 0 2
+267 -60 0 2
+268 -120 0 2
+274 160 0 1
+281 263.299 -250.665 8
+309 200.201 -370.665 8
+746 -270 0 2
+
+Platform at 274
+Number of edges: 4
+273 -160 0 1
+275 160 0 1
+281 217.743 -247.999 8
+309 88.952 -437.331 8
+
+Platform at 275
+Number of edges: 5
+274 -160 0 1
+276 160 0 1
+281 169.356 -247.999 8
+308 -71.1616 -437.331 8
+309 53.3712 -437.331 8
+
+Platform at 276
+Number of edges: 4
+275 -160 0 1
+260 50 0 2
+281 119.681 -250.665 8
+308 -106.742 -437.331 8
+
+Platform at 277
+Number of edges: 6
+269 300 0 2
+270 50 0 2
+271 90 0 2
+272 200 0 2
+280 -160 0 1
+302 172.842 -367.998 8
+
+Platform at 278
+Number of edges: 2
+279 160 0 1
+292 -153.41 -234.665 8
+
+Platform at 279
+Number of edges: 3
+278 -160 0 1
+280 160 0 1
+292 -204.547 -234.665 8
+
+Platform at 280
+Number of edges: 4
+277 160 0 1
+279 -160 0 1
+292 -330.885 -181.332 8
+302 240.004 -359.998 8
+
+Platform at 281
+Number of edges: 4
+260 -50 0 2
+261 -50 0 2
+276 -117.188 -255.999 8
+282 160 0 1
+
+Platform at 282
+Number of edges: 3
+281 -160 0 1
+276 -167.554 -250.665 8
+283 160 0 1
+
+Platform at 283
+Number of edges: 3
+282 -160 0 1
+276 -217.743 -247.999 8
+284 160 0 1
+
+Platform at 284
+Number of edges: 3
+283 -160 0 1
+276 -266.13 -247.999 8
+285 160 0 1
+
+Platform at 285
+Number of edges: 3
+284 -160 0 1
+286 160 0 1
+710 347.431 -263.999 8
+
+Platform at 286
+Number of edges: 3
+285 -160 0 1
+287 160 0 1
+710 238.286 -271.999 8
+
+Platform at 287
+Number of edges: 4
+286 -160 0 1
+288 160 0 1
+318 247.378 -367.998 8
+710 137.041 -295.999 8
+
+Platform at 288
+Number of edges: 2
+287 -160 0 1
+710 57.2684 -367.998 8
+
+Platform at 289
+Number of edges: 1
+291 -160 0 1
+
+Platform at 290
+Number of edges: 1
+291 160 0 1
+
+Platform at 291
+Number of edges: 2
+289 160 0 1
+290 -160 0 1
+
+Platform at 292
+Number of edges: 3
+278 153.41 -234.665 8
+294 -160 0 1
+296 -306.821 -175.999 8
+
+Platform at 293
+Number of edges: 3
+278 330.885 -181.332 8
+294 160 0 1
+296 -148.027 -202.665 8
+
+Platform at 294
+Number of edges: 4
+292 160 0 1
+293 -160 0 1
+278 222.224 -215.999 8
+296 -207.238 -202.665 8
+
+Platform at 295
+Number of edges: 2
+293 231.619 -181.332 8
+296 160 0 1
+
+Platform at 296
+Number of edges: 2
+295 -160 0 1
+293 148.027 -202.665 8
+
+Platform at 297
+Number of edges: 3
+334 155.116 -482.665 8
+706 192.907 -351.998 8
+709 160 0 1
+
+Platform at 298
+Number of edges: 4
+299 160 0 1
+337 -107.204 -506.665 8
+706 70.7157 -349.332 8
+708 -160 0 1
+
+Platform at 299
+Number of edges: 2
+298 -160 0 1
+706 50.1622 -253.332 8
+
+Platform at 300
+Number of edges: 3
+301 160 0 1
+320 92.5342 -386.665 8
+705 -160 0 1
+
+Platform at 301
+Number of edges: 5
+300 -160 0 1
+270 120 0 2
+271 150 0 2
+277 50 0 2
+320 55.5205 -386.665 8
+
+Platform at 302
+Number of edges: 6
+270 -50 0 2
+271 -50 0 2
+277 -140 0 2
+280 -210 0 2
+303 160 0 1
+319 -62.7833 -357.332 8
+
+Platform at 303
+Number of edges: 3
+302 -160 0 1
+304 160 0 1
+319 -164.676 -293.332 8
+
+Platform at 304
+Number of edges: 2
+303 -160 0 1
+305 160 0 1
+
+Platform at 305
+Number of edges: 2
+304 -160 0 1
+306 160 0 1
+
+Platform at 306
+Number of edges: 4
+305 -160 0 1
+307 160 0 1
+309 193.36 -341.332 8
+324 -53.2169 -447.998 8
+
+Platform at 307
+Number of edges: 4
+306 -160 0 1
+308 160 0 1
+309 159.45 -338.665 8
+324 -118.29 -399.998 8
+
+Platform at 308
+Number of edges: 6
+307 -160 0 1
+274 50 0 2
+275 50 0 2
+276 100 0 2
+309 124.016 -338.665 8
+324 -181.093 -391.998 8
+
+Platform at 309
+Number of edges: 5
+273 -130 0 2
+274 -70 0 2
+275 -50 0 2
+308 -124.016 -338.665 8
+310 160 0 1
+
+Platform at 310
+Number of edges: 3
+309 -160 0 1
+308 -159.45 -338.665 8
+311 160 0 1
+
+Platform at 311
+Number of edges: 3
+310 -160 0 1
+308 -193.36 -341.332 8
+312 160 0 1
+
+Platform at 312
+Number of edges: 2
+311 -160 0 1
+313 160 0 1
+
+Platform at 313
+Number of edges: 3
+312 -160 0 1
+314 160 0 1
+712 190.82 -394.665 8
+
+Platform at 314
+Number of edges: 3
+313 -160 0 1
+315 160 0 1
+712 157.542 -391.998 8
+
+Platform at 315
+Number of edges: 3
+314 -160 0 1
+316 160 0 1
+712 122.532 -391.998 8
+
+Platform at 316
+Number of edges: 3
+315 -160 0 1
+317 160 0 1
+712 88.3268 -389.332 8
+
+Platform at 317
+Number of edges: 5
+316 -160 0 1
+288 50 0 2
+710 80 0 2
+711 180 0 2
+712 52.9961 -389.332 8
+
+Platform at 318
+Number of edges: 2
+710 -160 0 2
+711 -50 0 2
+
+Platform at 319
+Number of edges: 4
+302 50 0 2
+303 80 0 2
+321 -160 0 1
+322 77.149 -365.332 8
+
+Platform at 320
+Number of edges: 7
+300 -80 0 2
+301 -50 0 2
+321 160 0 1
+322 331.585 -261.332 8
+705 -160 0 2
+706 -330 0 2
+707 -250 0 2
+
+Platform at 321
+Number of edges: 3
+319 160 0 1
+320 -160 0 1
+322 197.923 -274.665 8
+
+Platform at 322
+Number of edges: 6
+302 20 0 2
+319 -40 0 2
+320 -220 0 2
+321 -130 0 2
+323 160 0 1
+325 50.037 -391.998 8
+
+Platform at 323
+Number of edges: 3
+322 -160 0 1
+324 160 0 1
+325 50.0751 -322.665 8
+
+Platform at 324
+Number of edges: 4
+323 -160 0 1
+307 140 0 2
+308 140 0 2
+325 51.0423 -269.332 8
+
+Platform at 325
+Number of edges: 6
+305 20 0 2
+306 40 0 2
+322 -220 0 2
+323 -130 0 2
+324 -40 0 2
+326 160 0 1
+
+Platform at 326
+Number of edges: 1
+325 -160 0 1
+
+Platform at 330
+Number of edges: 1
+333 -225.001 -213.332 8
+
+Platform at 333
+Number of edges: 2
+335 -160 0 1
+337 -288.463 -207.999 8
+
+Platform at 334
+Number of edges: 6
+297 -110 0 2
+335 160 0 1
+337 -175.326 -205.332 8
+341 98.7668 -367.998 8
+708 -50 0 2
+709 -50 0 2
+
+Platform at 335
+Number of edges: 4
+333 160 0 1
+334 -160 0 1
+337 -233.768 -205.332 8
+340 -55.336 -418.665 8
+
+Platform at 336
+Number of edges: 3
+334 233.768 -205.332 8
+337 160 0 1
+338 53.5141 -426.665 8
+
+Platform at 337
+Number of edges: 5
+336 -160 0 1
+298 80 0 2
+334 175.326 -205.332 8
+708 50 0 2
+709 50 0 2
+
+Platform at 338
+Number of edges: 4
+336 -50 0 2
+339 160 0 1
+341 227.529 -237.332 8
+350 93.2316 -426.665 8
+
+Platform at 339
+Number of edges: 5
+338 -160 0 1
+340 160 0 1
+341 178.978 -234.665 8
+350 53.9811 -434.665 8
+352 -53.9811 -434.665 8
+
+Platform at 340
+Number of edges: 5
+339 -160 0 1
+333 70 0 2
+335 50 0 2
+341 127.842 -234.665 8
+352 -93.2316 -426.665 8
+
+Platform at 341
+Number of edges: 4
+334 -40 0 2
+335 40 0 2
+340 -217.842 -234.665 8
+342 160 0 1
+
+Platform at 342
+Number of edges: 3
+341 -160 0 1
+340 -266.967 -237.332 8
+343 160 0 1
+
+Platform at 343
+Number of edges: 2
+342 -160 0 1
+340 -310.11 -245.332 8
+
+Platform at 346
+Number of edges: 0
+
+Platform at 349
+Number of edges: 2
+350 -160 0 1
+352 -204.547 -234.665 8
+
+Platform at 350
+Number of edges: 4
+349 160 0 1
+338 -70 0 2
+339 -50 0 2
+352 -153.41 -234.665 8
+
+Platform at 351
+Number of edges: 3
+350 204.547 -234.665 8
+352 160 0 1
+353 71.1616 -437.331 8
+
+Platform at 352
+Number of edges: 4
+351 -160 0 1
+339 50 0 2
+340 70 0 2
+350 153.41 -234.665 8
+
+Platform at 353
+Number of edges: 3
+351 -40 0 2
+352 20 0 2
+354 160 0 1
+
+Platform at 354
+Number of edges: 2
+353 -160 0 1
+355 160 0 1
+
+Platform at 355
+Number of edges: 1
+354 -160 0 1
+
+Platform at 358
+Number of edges: 1
+359 160 0 1
+
+Platform at 359
+Number of edges: 2
+358 -160 0 1
+360 160 0 1
+
+Platform at 360
+Number of edges: 1
+359 -160 0 1
+
+Platform at 362
+Number of edges: 2
+363 160 0 1
+717 -123.959 -378.665 8
+
+Platform at 363
+Number of edges: 2
+362 -160 0 1
+717 -159.376 -378.665 8
+
+Platform at 429
+Number of edges: 2
+431 -160 0 1
+432 -321.431 -186.665 8
+
+Platform at 430
+Number of edges: 2
+431 160 0 1
+432 -184.933 -194.665 8
+
+Platform at 431
+Number of edges: 3
+429 160 0 1
+430 -160 0 1
+432 -257.145 -186.665 8
+
+Platform at 432
+Number of edges: 3
+430 180.001 -199.999 8
+435 -160 0 1
+443 131.287 -346.665 8
+
+Platform at 433
+Number of edges: 5
+434 160 0 1
+437 -160.715 -186.665 8
+742 -50 0 2
+743 -50 0 2
+744 -80 0 2
+
+Platform at 434
+Number of edges: 4
+433 -160 0 1
+430 296.055 -202.665 8
+435 160 0 1
+437 -221.833 -189.332 8
+
+Platform at 435
+Number of edges: 4
+432 160 0 1
+434 -160 0 1
+430 222.224 -215.999 8
+437 -289.288 -186.665 8
+
+Platform at 436
+Number of edges: 3
+433 225.002 -186.665 8
+437 160 0 1
+438 70.7913 -418.665 8
+
+Platform at 437
+Number of edges: 4
+436 -160 0 1
+433 160.715 -186.665 8
+740 70 0 2
+743 50 0 2
+
+Platform at 438
+Number of edges: 3
+436 -50 0 2
+437 -50 0 2
+439 160 0 1
+
+Platform at 439
+Number of edges: 4
+438 -160 0 1
+440 160 0 1
+443 217.743 -330.665 8
+545 205.885 -421.332 8
+
+Platform at 440
+Number of edges: 4
+439 -160 0 1
+441 160 0 1
+443 182.928 -327.999 8
+545 130.774 -434.665 8
+
+Platform at 441
+Number of edges: 4
+440 -160 0 1
+442 160 0 1
+443 150.001 -319.999 8
+545 71.3993 -466.665 8
+
+Platform at 442
+Number of edges: 3
+441 -160 0 1
+443 112.501 -319.999 8
+547 -53.6021 -506.665 8
+
+Platform at 443
+Number of edges: 4
+432 -70 0 2
+442 -112.501 -319.999 8
+444 160 0 1
+447 244.446 -319.999 8
+
+Platform at 444
+Number of edges: 4
+443 -160 0 1
+442 -150.001 -319.999 8
+445 160 0 1
+447 200.001 -319.999 8
+
+Platform at 445
+Number of edges: 4
+444 -160 0 1
+442 -182.928 -327.999 8
+446 160 0 1
+447 155.557 -319.999 8
+
+Platform at 446
+Number of edges: 3
+445 -160 0 1
+442 -219.513 -327.999 8
+447 111.112 -319.999 8
+
+Platform at 447
+Number of edges: 4
+445 -200 0 2
+446 -90 0 2
+448 160 0 1
+450 202.196 -221.332 8
+
+Platform at 448
+Number of edges: 4
+447 -160 0 1
+449 160 0 1
+450 137.263 -221.332 8
+539 -143.514 -426.665 8
+
+Platform at 449
+Number of edges: 2
+448 -160 0 1
+450 66.7409 -226.665 8
+
+Platform at 450
+Number of edges: 2
+449 -120 0 2
+451 160 0 1
+
+Platform at 451
+Number of edges: 2
+450 -160 0 1
+452 160 0 1
+
+Platform at 452
+Number of edges: 3
+451 -160 0 1
+521 51.7856 -439.998 8
+535 -143.234 -407.998 8
+
+Platform at 456
+Number of edges: 3
+457 160 0 1
+533 112.927 -341.332 8
+535 -297.798 -391.998 8
+
+Platform at 457
+Number of edges: 3
+456 -160 0 1
+458 160 0 1
+533 72.3413 -341.332 8
+
+Platform at 458
+Number of edges: 3
+457 -160 0 1
+459 160 0 1
+533 50.2131 -309.332 8
+
+Platform at 459
+Number of edges: 2
+458 -160 0 1
+533 53.4459 -247.999 8
+
+Platform at 463
+Number of edges: 0
+
+Platform at 471
+Number of edges: 0
+
+Platform at 492
+Number of edges: 1
+493 -70.979 -407.998 8
+
+Platform at 493
+Number of edges: 3
+492 50 0 2
+495 -160 0 1
+496 -196.603 -274.665 8
+
+Platform at 494
+Number of edges: 2
+495 160 0 1
+496 -109.224 -274.665 8
+
+Platform at 495
+Number of edges: 3
+493 160 0 1
+494 -160 0 1
+496 -152.913 -274.665 8
+
+Platform at 496
+Number of edges: 4
+494 109.224 -274.665 8
+499 -160 0 1
+500 -285.968 -274.665 8
+509 -53.2169 -447.998 8
+
+Platform at 497
+Number of edges: 3
+494 229.168 -287.999 8
+498 160 0 1
+500 -129.985 -274.665 8
+
+Platform at 498
+Number of edges: 4
+497 -160 0 1
+494 189.253 -285.332 8
+499 160 0 1
+500 -181.979 -274.665 8
+
+Platform at 499
+Number of edges: 5
+496 160 0 1
+498 -160 0 1
+494 150.001 -279.999 8
+500 -233.973 -274.665 8
+510 77.5936 -429.331 8
+
+Platform at 500
+Number of edges: 3
+497 100 0 2
+498 220 0 2
+499 340 0 2
+
+Platform at 506
+Number of edges: 2
+507 160 0 1
+510 193.36 -341.332 8
+
+Platform at 507
+Number of edges: 3
+506 -160 0 1
+508 160 0 1
+510 159.45 -338.665 8
+
+Platform at 508
+Number of edges: 3
+507 -160 0 1
+509 160 0 1
+510 124.016 -338.665 8
+
+Platform at 509
+Number of edges: 4
+508 -160 0 1
+459 -72.4439 -514.664 8
+496 50 0 2
+510 88.5831 -338.665 8
+
+Platform at 510
+Number of edges: 5
+496 -50 0 2
+499 -50 0 2
+509 -88.5831 -338.665 8
+511 160 0 1
+516 189.581 -415.998 8
+
+Platform at 511
+Number of edges: 3
+510 -160 0 1
+509 -124.016 -338.665 8
+516 159.703 -407.998 8
+
+Platform at 516
+Number of edges: 1
+517 -70.9229 -87.9986 8
+
+Platform at 517
+Number of edges: 3
+516 50 0 2
+519 -160 0 1
+534 -241.937 -247.999 8
+
+Platform at 518
+Number of edges: 2
+519 160 0 1
+534 -145.162 -247.999 8
+
+Platform at 519
+Number of edges: 3
+517 160 0 1
+518 -160 0 1
+534 -193.549 -247.999 8
+
+Platform at 520
+Number of edges: 2
+532 -160 0 1
+571 -53.5141 -426.665 8
+
+Platform at 521
+Number of edges: 5
+451 -140 0 2
+452 -90 0 2
+522 160 0 1
+535 -230 0 2
+538 -310 0 2
+
+Platform at 522
+Number of edges: 2
+521 -160 0 1
+523 160 0 1
+
+Platform at 523
+Number of edges: 2
+522 -160 0 1
+524 160 0 1
+
+Platform at 524
+Number of edges: 2
+523 -160 0 1
+525 160 0 1
+
+Platform at 525
+Number of edges: 2
+524 -160 0 1
+526 160 0 1
+
+Platform at 526
+Number of edges: 2
+525 -160 0 1
+527 160 0 1
+
+Platform at 527
+Number of edges: 3
+526 -160 0 1
+528 160 0 1
+569 105.017 -391.998 8
+
+Platform at 528
+Number of edges: 4
+527 -160 0 1
+529 160 0 1
+568 -53.5141 -426.665 8
+569 53.5141 -426.665 8
+
+Platform at 529
+Number of edges: 5
+528 -160 0 1
+530 160 0 1
+568 -105.017 -391.998 8
+579 -140.748 -439.998 8
+586 -157.819 -450.665 8
+
+Platform at 530
+Number of edges: 2
+529 -160 0 1
+531 160 0 1
+
+Platform at 531
+Number of edges: 2
+530 -160 0 1
+532 160 0 1
+
+Platform at 532
+Number of edges: 2
+520 160 0 1
+531 -160 0 1
+
+Platform at 533
+Number of edges: 6
+456 -350 0 2
+457 -250 0 2
+458 -150 0 2
+459 -50 0 2
+518 193.549 -247.999 8
+534 160 0 1
+
+Platform at 534
+Number of edges: 2
+533 -160 0 1
+518 145.162 -247.999 8
+
+Platform at 535
+Number of edges: 6
+452 50 0 2
+456 310 0 2
+521 180.069 -378.665 8
+538 -160 0 1
+539 -266.13 -247.999 8
+556 -138.972 -389.332 8
+
+Platform at 536
+Number of edges: 4
+447 -50 0 2
+448 -50 0 2
+537 160 0 1
+539 -120.968 -247.999 8
+
+Platform at 537
+Number of edges: 3
+536 -160 0 1
+538 160 0 1
+539 -169.356 -247.999 8
+
+Platform at 538
+Number of edges: 5
+535 160 0 1
+537 -160 0 1
+521 220.085 -378.665 8
+539 -217.743 -247.999 8
+556 -81.9987 -407.998 8
+
+Platform at 539
+Number of edges: 4
+448 50 0 2
+449 70 0 2
+536 120.968 -247.999 8
+540 -160 0 1
+
+Platform at 540
+Number of edges: 3
+539 160 0 1
+536 169.356 -247.999 8
+552 -93.2316 -426.665 8
+
+Platform at 544
+Number of edges: 2
+546 -160 0 1
+547 -304.9 -253.332 8
+
+Platform at 545
+Number of edges: 6
+439 -150 0 2
+440 -90 0 2
+441 -50 0 2
+442 -50 0 2
+546 160 0 1
+547 -154.131 -263.999 8
+
+Platform at 546
+Number of edges: 3
+544 160 0 1
+545 -160 0 1
+547 -220.535 -261.332 8
+
+Platform at 547
+Number of edges: 6
+442 50 0 2
+544 300 0 2
+545 90 0 2
+546 200 0 2
+548 71.1543 -397.332 8
+678 -160 0 1
+
+Platform at 548
+Number of edges: 3
+547 -50 0 2
+549 160 0 1
+678 -160 0 2
+
+Platform at 549
+Number of edges: 3
+548 -160 0 1
+550 160 0 1
+553 210.938 -341.332 8
+
+Platform at 550
+Number of edges: 3
+549 -160 0 1
+551 160 0 1
+553 175.782 -341.332 8
+
+Platform at 551
+Number of edges: 3
+550 -160 0 1
+552 160 0 1
+553 141.733 -338.665 8
+
+Platform at 552
+Number of edges: 4
+551 -160 0 1
+539 130 0 2
+540 70 0 2
+553 106.3 -338.665 8
+
+Platform at 553
+Number of edges: 3
+552 -106.3 -338.665 8
+554 160 0 1
+557 176.195 -399.998 8
+
+Platform at 554
+Number of edges: 4
+553 -160 0 1
+552 -141.733 -338.665 8
+555 160 0 1
+557 140.956 -399.998 8
+
+Platform at 555
+Number of edges: 5
+554 -160 0 1
+552 -175.782 -341.332 8
+556 160 0 1
+557 105.717 -399.998 8
+572 189.581 -415.998 8
+
+Platform at 556
+Number of edges: 8
+555 -160 0 1
+535 100 0 2
+537 50 0 2
+538 50 0 2
+552 -210.938 -341.332 8
+557 71.1543 -397.332 8
+572 159.703 -407.998 8
+580 175.183 -421.332 8
+
+Platform at 557
+Number of edges: 7
+553 -290 0 2
+554 -210 0 2
+555 -120 0 2
+556 -50 0 2
+558 160 0 1
+572 94.5287 -327.999 8
+580 117.672 -327.999 8
+
+Platform at 558
+Number of edges: 3
+557 -160 0 1
+572 56.7172 -327.999 8
+580 78.448 -327.999 8
+
+Platform at 559
+Number of edges: 0
+
+Platform at 567
+Number of edges: 0
+
+Platform at 568
+Number of edges: 5
+528 50 0 2
+529 70 0 2
+569 109.757 -327.999 8
+579 -56.7172 -327.999 8
+586 -78.448 -327.999 8
+
+Platform at 569
+Number of edges: 6
+527 -70 0 2
+528 -50 0 2
+568 -109.757 -327.999 8
+570 160 0 1
+579 -170.152 -327.999 8
+586 -196.12 -327.999 8
+
+Platform at 570
+Number of edges: 5
+569 -160 0 1
+568 -146.342 -327.999 8
+571 160 0 1
+579 -207.963 -327.999 8
+586 -235.344 -327.999 8
+
+Platform at 571
+Number of edges: 3
+570 -160 0 1
+520 50 0 2
+568 -182.928 -327.999 8
+
+Platform at 572
+Number of edges: 3
+557 -180 0 2
+558 -50 0 2
+559 -50 0 2
+
+Platform at 579
+Number of edges: 2
+567 50 0 2
+568 50 0 2
+
+Platform at 580
+Number of edges: 5
+557 -200 0 2
+558 -110 0 2
+559 -110 0 2
+572 -50 0 2
+581 160 0 1
+
+Platform at 581
+Number of edges: 2
+580 -160 0 1
+582 160 0 1
+
+Platform at 582
+Number of edges: 2
+581 -160 0 1
+583 160 0 1
+
+Platform at 583
+Number of edges: 2
+582 -160 0 1
+584 160 0 1
+
+Platform at 584
+Number of edges: 2
+583 -160 0 1
+585 160 0 1
+
+Platform at 585
+Number of edges: 2
+584 -160 0 1
+586 160 0 1
+
+Platform at 586
+Number of edges: 4
+585 -160 0 1
+567 110 0 2
+568 110 0 2
+579 50 0 2
+
+Platform at 676
+Number of edges: 7
+14 -50 0 2
+15 -50 0 2
+244 -180 0 2
+245 -120 0 2
+246 -60 0 2
+677 160 0 1
+704 -240.005 -239.999 8
+
+Platform at 677
+Number of edges: 6
+676 -160 0 1
+249 50 0 2
+250 50 0 2
+251 120 0 2
+252 210 0 2
+253 290 0 2
+
+Platform at 678
+Number of edges: 3
+547 160 0 1
+438 -50 0 2
+548 123.336 -399.998 8
+
+Platform at 689
+Number of edges: 4
+244 50 0 2
+245 200 0 2
+246 340 0 2
+693 -160 0 1
+
+Platform at 690
+Number of edges: 1
+691 160 0 1
+
+Platform at 691
+Number of edges: 2
+690 -160 0 1
+692 160 0 1
+
+Platform at 692
+Number of edges: 2
+691 -160 0 1
+693 160 0 1
+
+Platform at 693
+Number of edges: 2
+689 160 0 1
+692 -160 0 1
+
+Platform at 694
+Number of edges: 8
+236 -105.992 -389.332 8
+689 350 0 2
+690 50 0 2
+691 50 0 2
+692 150 0 2
+693 250 0 2
+696 -160 0 1
+697 52.9961 -389.332 8
+
+Platform at 695
+Number of edges: 2
+696 160 0 1
+697 122.532 -391.998 8
+
+Platform at 696
+Number of edges: 4
+694 160 0 1
+695 -160 0 1
+236 -70.6614 -389.332 8
+697 88.3268 -389.332 8
+
+Platform at 697
+Number of edges: 6
+236 -159.45 -338.665 8
+694 -50 0 2
+695 -180 0 2
+696 -90 0 2
+698 160 0 1
+701 140.956 -399.998 8
+
+Platform at 698
+Number of edges: 4
+697 -160 0 1
+236 -193.36 -341.332 8
+699 160 0 1
+701 105.717 -399.998 8
+
+Platform at 699
+Number of edges: 3
+698 -160 0 1
+700 160 0 1
+701 71.1543 -397.332 8
+
+Platform at 700
+Number of edges: 6
+699 -160 0 1
+10 50 0 2
+11 50 0 2
+244 70 0 2
+245 130 0 2
+246 190 0 2
+
+Platform at 701
+Number of edges: 6
+268 190.895 -367.998 8
+697 -210 0 2
+698 -120 0 2
+699 -50 0 2
+700 -50 0 2
+702 160 0 1
+
+Platform at 702
+Number of edges: 3
+701 -160 0 1
+268 152.716 -367.998 8
+703 160 0 1
+
+Platform at 703
+Number of edges: 3
+702 -160 0 1
+268 114.537 -367.998 8
+704 160 0 1
+
+Platform at 704
+Number of edges: 5
+703 -160 0 1
+247 90 0 2
+268 76.3579 -367.998 8
+676 140 0 2
+677 250 0 2
+
+Platform at 705
+Number of edges: 3
+300 160 0 1
+320 129.548 -386.665 8
+707 -160 0 1
+
+Platform at 706
+Number of edges: 5
+298 -70 0 2
+299 -50 0 2
+320 203.575 -386.665 8
+707 160 0 1
+708 -280 0 2
+
+Platform at 707
+Number of edges: 3
+705 160 0 1
+706 -160 0 1
+320 166.562 -386.665 8
+
+Platform at 708
+Number of edges: 4
+298 160 0 1
+337 -71.4694 -506.665 8
+706 105.222 -351.998 8
+709 -160 0 1
+
+Platform at 709
+Number of edges: 4
+297 -160 0 1
+708 160 0 1
+334 71.4694 -506.665 8
+706 140.296 -351.998 8
+
+Platform at 710
+Number of edges: 6
+285 -270 0 2
+286 -180 0 2
+287 -90 0 2
+288 -50 0 2
+318 168.205 -261.332 8
+711 160 0 1
+
+Platform at 711
+Number of edges: 4
+710 -160 0 1
+289 50 0 2
+291 50 0 2
+318 112.137 -261.332 8
+
+Platform at 712
+Number of edges: 5
+314 -270 0 2
+315 -180 0 2
+316 -90 0 2
+317 -50 0 2
+713 160 0 1
+
+Platform at 713
+Number of edges: 2
+712 -160 0 1
+714 160 0 1
+
+Platform at 714
+Number of edges: 2
+713 -160 0 1
+715 160 0 1
+
+Platform at 715
+Number of edges: 2
+714 -160 0 1
+716 160 0 1
+
+Platform at 716
+Number of edges: 1
+715 -160 0 1
+
+Platform at 717
+Number of edges: 3
+362 200 0 2
+363 300 0 2
+718 -160 0 1
+
+Platform at 718
+Number of edges: 1
+717 160 0 1
+
+Platform at 719
+Number of edges: 0
+
+Platform at 722
+Number of edges: 0
+
+Platform at 723
+Number of edges: 1
+724 160 0 1
+
+Platform at 724
+Number of edges: 4
+723 -160 0 1
+719 290 0 2
+722 170 0 2
+725 50 0 2
+
+Platform at 725
+Number of edges: 4
+718 350 0 2
+719 250 0 2
+722 50 0 2
+724 -70.1066 -309.332 8
+
+Platform at 740
+Number of edges: 2
+743 -160 0 1
+744 -157.525 -261.332 8
+
+Platform at 741
+Number of edges: 0
+
+Platform at 742
+Number of edges: 0
+
+Platform at 743
+Number of edges: 3
+740 160 0 1
+437 -60.5966 -410.665 8
+744 -94.5151 -261.332 8
+
+Platform at 744
+Number of edges: 3
+740 90 0 2
+742 50 0 2
+743 50 0 2
+
+Platform at 746
+Number of edges: 6
+269 -160 0 1
+265 130 0 2
+266 70 0 2
+267 50 0 2
+273 163.543 -327.999 8
+277 -238.69 -325.332 8
+
+Platform at 747
+Number of edges: 1
+748 160 0 1
+
+Platform at 748
+Number of edges: 2
+747 -160 0 1
+749 160 0 1
+
+Platform at 749
+Number of edges: 2
+748 -160 0 1
+750 160 0 1
+
+Platform at 750
+Number of edges: 2
+749 -160 0 1
+751 160 0 1
+
+Platform at 751
+Number of edges: 2
+750 -160 0 1
+752 160 0 1
+
+Platform at 752
+Number of edges: 2
+751 -160 0 1
+753 160 0 1
+
+Platform at 753
+Number of edges: 2
+752 -160 0 1
+754 160 0 1
+
+Platform at 754
+Number of edges: 2
+753 -160 0 1
+755 160 0 1
+
+Platform at 755
+Number of edges: 2
+754 -160 0 1
+756 160 0 1
+
+Platform at 756
+Number of edges: 2
+755 -160 0 1
+757 160 0 1
+
+Platform at 757
+Number of edges: 2
+756 -160 0 1
+758 160 0 1
+
+Platform at 758
+Number of edges: 2
+757 -160 0 1
+759 160 0 1
+
+Platform at 759
+Number of edges: 2
+758 -160 0 1
+760 160 0 1
+
+Platform at 760
+Number of edges: 2
+759 -160 0 1
+761 160 0 1
+
+Platform at 761
+Number of edges: 2
+760 -160 0 1
+762 160 0 1
+
+Platform at 762
+Number of edges: 2
+761 -160 0 1
+763 160 0 1
+
+Platform at 763
+Number of edges: 2
+762 -160 0 1
+764 160 0 1
+
+Platform at 764
+Number of edges: 2
+763 -160 0 1
+765 160 0 1
+
+Platform at 765
+Number of edges: 2
+764 -160 0 1
+766 160 0 1
+
+Platform at 766
+Number of edges: 2
+765 -160 0 1
+767 160 0 1
+
+Platform at 767
+Number of edges: 3
+766 -160 0 1
+768 160 0 1
+772 210.938 -341.332 8
+
+Platform at 768
+Number of edges: 3
+767 -160 0 1
+769 160 0 1
+772 175.782 -341.332 8
+
+Platform at 769
+Number of edges: 3
+768 -160 0 1
+770 160 0 1
+772 141.733 -338.665 8
+
+Platform at 770
+Number of edges: 3
+769 -160 0 1
+771 160 0 1
+772 106.3 -338.665 8
+
+Platform at 771
+Number of edges: 2
+770 -160 0 1
+772 70.8665 -338.665 8
+
+Platform at 772
+Number of edges: 2
+771 -70.8665 -338.665 8
+773 160 0 1
+
+Platform at 773
+Number of edges: 3
+772 -160 0 1
+771 -106.3 -338.665 8
+774 160 0 1
+
+Platform at 774
+Number of edges: 3
+773 -160 0 1
+771 -141.733 -338.665 8
+775 160 0 1
+
+Platform at 775
+Number of edges: 3
+774 -160 0 1
+771 -175.782 -341.332 8
+776 160 0 1
+
+Platform at 776
+Number of edges: 3
+775 -160 0 1
+771 -210.938 -341.332 8
+777 160 0 1
+
+Platform at 777
+Number of edges: 2
+776 -160 0 1
+778 160 0 1
+
+Platform at 778
+Number of edges: 2
+777 -160 0 1
+779 160 0 1
+
+Platform at 779
+Number of edges: 2
+778 -160 0 1
+780 160 0 1
+
+Platform at 780
+Number of edges: 2
+779 -160 0 1
+781 160 0 1
+
+Platform at 781
+Number of edges: 2
+780 -160 0 1
+782 160 0 1
+
+Platform at 782
+Number of edges: 2
+781 -160 0 1
+783 160 0 1
+
+Platform at 783
+Number of edges: 2
+782 -160 0 1
+784 160 0 1
+
+Platform at 784
+Number of edges: 2
+783 -160 0 1
+785 160 0 1
+
+Platform at 785
+Number of edges: 1
+784 -160 0 1
+
