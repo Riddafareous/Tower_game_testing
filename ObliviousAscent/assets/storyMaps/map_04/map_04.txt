@@ -402,3 +402,19 @@ Static Platform 1240 -1260 40 11.25 index=398
 Static Platform 1200 -1260 40 11.25 index=399
 Player Start 940 854 20 34.75 index=400
 Shop 1460 393.75 20 20 index=401
+Static Platform 60 742.5 40 11.25 index=402
+Static Platform 1180 360 40 11.25 index=403
+Static Platform 1260 360 40 11.25 index=404
+Static Platform 1000 292.5 40 11.25 index=405
+Static Platform 1280 -56.25 40 11.25 index=406
+Static Platform 1460 -90 40 11.25 index=407
+Static Platform 1140 -258.75 40 11.25 index=408
+Conveyor Platform 1440 -236.25 40 11.25 index=409 facing=-1
+Conveyor Platform 1400 -236.25 40 11.25 index=410
+Conveyor Platform 740 -438.75 40 11.25 index=411 facing=-1
+Conveyor Platform 820 -438.75 40 11.25 index=412 facing=1
+Static Platform 20 -450 40 11.25 index=413
+Static Platform 60 -450 40 11.25 index=414
+Static Platform 100 -450 40 11.25 index=415
+Static Platform 760 -641.25 40 11.25 index=416
+Static Platform 1280 -900 40 11.25 index=417

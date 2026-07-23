@@ -478,24 +478,23 @@ Number of edges: 5
 210 160 0 1
 
 Platform at 184
-Number of edges: 4
+Number of edges: 5
 186 -160 0 1
 187 -140.296 -351.998 8
-198 -106.385 -487.998 8
 210 50 0 2
+645 80 0 2
+646 -70.9232 -487.998 8
 
 Platform at 185
-Number of edges: 3
+Number of edges: 2
 186 160 0 1
 187 -70.7157 -349.332 8
-200 89.3368 -506.665 8
 
 Platform at 186
-Number of edges: 5
+Number of edges: 4
 184 160 0 1
 185 -160 0 1
 187 -105.222 -351.998 8
-198 -70.9232 -487.998 8
 200 53.6021 -506.665 8
 
 Platform at 187
@@ -503,16 +502,15 @@ Number of edges: 5
 185 60 0 2
 186 280 0 2
 188 -160 0 1
-197 -105.739 -469.331 8
+197 -122.935 -442.665 8
 211 -189.057 -327.999 8
 
 Platform at 188
-Number of edges: 6
+Number of edges: 5
 187 160 0 1
 179 -60 0 2
 180 -50 0 2
 197 -71.3993 -466.665 8
-198 71.1719 -477.331 8
 211 -151.246 -327.999 8
 
 Platform at 189
@@ -564,38 +562,36 @@ Number of edges: 7
 190 -90 0 2
 195 -240 0 2
 197 160 0 1
-198 176.789 -349.332 8
 211 -50 0 2
 639 106.758 -477.331 8
+647 140.296 -351.998 8
 
 Platform at 197
 Number of edges: 5
 196 -160 0 1
 187 90 0 2
 188 50 0 2
-198 141.431 -349.332 8
 639 71.1719 -477.331 8
+647 106.073 -349.332 8
 
 Platform at 198
-Number of edges: 6
-184 90 0 2
-185 50 0 2
-186 50 0 2
-187 -50 0 2
-188 -50 0 2
+Number of edges: 3
 200 122.454 -362.665 8
+646 160 0 1
+647 -160 0 1
 
 Platform at 199
 Number of edges: 1
 201 -160 0 1
 
 Platform at 200
-Number of edges: 5
+Number of edges: 6
 185 -60 0 2
 186 -50 0 2
-198 -250 0 2
+198 -270 0 2
 201 160 0 1
 638 -157.819 -450.665 8
+646 -120 0 2
 
 Platform at 201
 Number of edges: 2
@@ -603,14 +599,14 @@ Number of edges: 2
 200 -160 0 1
 
 Platform at 202
-Number of edges: 2
-638 -160 0 2
-639 -230 0 2
+Number of edges: 1
+650 -160 0 1
 
 Platform at 210
-Number of edges: 2
+Number of edges: 3
 183 -160 0 1
 184 -53.2342 -407.998 8
+645 160 0 1
 
 Platform at 211
 Number of edges: 6
@@ -697,12 +693,11 @@ Number of edges: 2
 315 -208.907 -250.665 8
 
 Platform at 315
-Number of edges: 5
+Number of edges: 4
 313 250 0 2
 314 140 0 2
 316 88.3268 -389.332 8
 324 222.746 -437.331 8
-333 88.5911 -527.998 8
 
 Platform at 316
 Number of edges: 3
@@ -803,19 +798,19 @@ Number of edges: 3
 
 Platform at 333
 Number of edges: 6
-315 -60 0 2
 324 50 0 2
 325 130 0 2
 326 220 0 2
 327 310 0 2
 334 -102.942 -349.332 8
+651 -160 0 1
 
 Platform at 334
 Number of edges: 4
-316 60 0 2
 324 240 0 2
-333 80 0 2
+333 90 0 2
 335 98.7668 -367.998 8
+651 50 0 2
 
 Platform at 335
 Number of edges: 2
@@ -861,31 +856,30 @@ Number of edges: 4
 434 -53.1924 -487.998 8
 
 Platform at 343
-Number of edges: 4
+Number of edges: 5
 346 -160 0 1
-348 -190.855 -365.332 8
+348 -254.531 -285.332 8
 638 160 0 2
 639 100 0 2
+649 -161.709 -402.665 8
 
 Platform at 344
-Number of edges: 3
+Number of edges: 2
 345 160 0 1
-348 -103.946 -311.999 8
-391 -87.6772 -450.665 8
+348 -115.696 -285.332 8
 
 Platform at 345
-Number of edges: 4
+Number of edges: 3
 344 -160 0 1
 346 160 0 1
-348 -122.454 -362.665 8
-391 -122.748 -450.665 8
+348 -161.974 -285.332 8
 
 Platform at 346
 Number of edges: 4
 343 160 0 1
 345 -160 0 1
-348 -157.441 -362.665 8
-391 -169.879 -434.665 8
+348 -208.253 -285.332 8
+649 -115.507 -402.665 8
 
 Platform at 347
 Number of edges: 1
@@ -898,19 +892,16 @@ Number of edges: 3
 345 270 0 2
 
 Platform at 391
-Number of edges: 4
-344 70 0 2
-345 130 0 2
-346 190 0 2
+Number of edges: 2
 392 123.336 -399.998 8
+648 160 0 1
 
 Platform at 392
-Number of edges: 5
-344 -50 0 2
-348 -110 0 2
+Number of edges: 4
 391 -160 0 2
 393 160 0 1
-409 -53.3906 -517.331 8
+648 -80 0 2
+649 -50 0 2
 
 Platform at 393
 Number of edges: 2
@@ -943,7 +934,7 @@ Platform at 404
 Number of edges: 3
 397 50 0 2
 406 -160 0 1
-445 158.828 -429.331 8
+653 123.533 -429.331 8
 
 Platform at 405
 Number of edges: 4
@@ -953,39 +944,37 @@ Number of edges: 4
 407 -159.376 -378.665 8
 
 Platform at 406
-Number of edges: 3
+Number of edges: 4
 404 160 0 1
 405 -160 0 1
 407 -194.793 -378.665 8
+653 158.828 -429.331 8
 
 Platform at 407
 Number of edges: 4
 395 50 0 2
 405 290 0 2
 408 -160 0 1
-409 -122.532 -391.998 8
+654 -88.3268 -389.332 8
 
 Platform at 408
-Number of edges: 3
+Number of edges: 4
 407 160 0 1
 392 -50 0 2
-409 -88.3268 -389.332 8
+649 -70 0 2
+654 -52.9961 -389.332 8
 
 Platform at 409
-Number of edges: 5
-392 50 0 2
-393 60 0 2
-407 180 0 2
-408 80 0 2
+Number of edges: 2
 451 -105.992 -389.332 8
+654 160 0 1
 
 Platform at 410
-Number of edges: 5
+Number of edges: 4
 342 200 0 2
 420 -160 0 1
 433 -70.979 -407.998 8
-435 53.5141 -426.665 8
-436 71.4694 -506.665 8
+435 59.5774 -402.665 8
 
 Platform at 411
 Number of edges: 1
@@ -1036,33 +1025,34 @@ Platform at 420
 Number of edges: 4
 410 160 0 1
 419 -160 0 1
-435 88.2377 -429.331 8
-436 107.204 -506.665 8
+435 99.2956 -402.665 8
+652 71.4694 -506.665 8
 
 Platform at 431
-Number of edges: 7
+Number of edges: 8
 412 -270 0 2
 413 -190 0 2
 414 -110 0 2
 415 -50 0 2
 416 -50 0 2
 432 160 0 1
-435 213.726 -330.665 8
+435 246.121 -293.332 8
+652 273.045 -373.332 8
 
 Platform at 432
 Number of edges: 4
 431 -160 0 1
 433 160 0 1
-435 157.441 -362.665 8
-436 175.935 -439.998 8
+435 215.679 -277.332 8
+652 152.979 -421.332 8
 
 Platform at 433
 Number of edges: 5
 432 -160 0 1
 410 50 0 2
 420 50 0 2
-435 122.454 -362.665 8
-436 140.748 -439.998 8
+435 178.485 -263.999 8
+652 106.742 -437.331 8
 
 Platform at 434
 Number of edges: 2
@@ -1070,29 +1060,25 @@ Number of edges: 2
 435 -160 0 1
 
 Platform at 435
-Number of edges: 6
+Number of edges: 5
 434 160 0 1
 410 -50 0 2
 419 -140 0 2
 420 -70 0 2
 433 -250 0 2
-437 -158.342 -439.998 8
 
 Platform at 436
-Number of edges: 5
-410 -50 0 2
-420 -80 0 2
-432 -230 0 2
-433 -160 0 2
+Number of edges: 2
 437 -173.504 -365.332 8
+652 -160 0 1
 
 Platform at 437
 Number of edges: 5
 420 80 0 2
 433 50 0 2
-435 200 0 2
 440 -160 0 1
 441 -208.205 -365.332 8
+652 320 0 2
 
 Platform at 438
 Number of edges: 4
@@ -1146,11 +1132,11 @@ Number of edges: 4
 
 Platform at 445
 Number of edges: 5
-404 -210 0 2
 442 326.616 -165.332 8
 446 -70.9559 -447.998 8
 450 77.269 -386.665 8
 455 52.9877 -498.665 8
+653 -160 0 1
 
 Platform at 446
 Number of edges: 6
@@ -1158,45 +1144,45 @@ Number of edges: 6
 449 -160 0 1
 450 240 0 2
 455 122.532 -391.998 8
-466 70.5209 -538.665 8
 472 -225.574 -373.332 8
+653 50 0 2
 
 Platform at 447
-Number of edges: 5
+Number of edges: 4
 405 -50 0 2
 448 160 0 1
-471 -159.703 -407.998 8
 472 -88.7237 -407.998 8
 624 72.3455 -463.998 8
 
 Platform at 448
-Number of edges: 5
+Number of edges: 4
 447 -160 0 1
 449 160 0 1
-455 214.391 -362.665 8
-471 -189.581 -415.998 8
+455 243.47 -333.332 8
 472 -124.213 -407.998 8
 
 Platform at 449
 Number of edges: 4
 446 160 0 1
 448 -160 0 1
-455 157.542 -391.998 8
+455 189.652 -343.998 8
 472 -159.703 -407.998 8
 
 Platform at 450
-Number of edges: 6
+Number of edges: 7
 441 310 0 2
 442 80 0 2
 443 150 0 2
 444 230 0 2
 445 -50 0 2
 446 -241.526 -266.665 8
+653 -110 0 2
 
 Platform at 451
-Number of edges: 2
+Number of edges: 3
 409 130 0 2
 452 154.538 -386.665 8
+654 220 0 2
 
 Platform at 452
 Number of edges: 4
@@ -1206,45 +1192,45 @@ Number of edges: 4
 471 140.956 -399.998 8
 
 Platform at 453
-Number of edges: 5
+Number of edges: 4
 452 -160 0 1
 454 160 0 1
 471 105.717 -399.998 8
-472 176.195 -399.998 8
 473 -70.5901 -429.331 8
 
 Platform at 454
-Number of edges: 5
+Number of edges: 4
 453 -160 0 1
 471 71.1543 -397.332 8
-472 140.956 -399.998 8
 473 -105.885 -429.331 8
 607 -70.5209 -538.665 8
 
 Platform at 455
-Number of edges: 6
+Number of edges: 7
 445 -50 0 2
 446 -170 0 2
 449 -270 0 2
 456 160 0 1
 458 190.855 -365.332 8
-624 -196.197 -373.332 8
+653 -60 0 2
+656 -157.422 -367.998 8
 
 Platform at 456
 Number of edges: 4
 455 -160 0 1
 457 160 0 1
 458 157.441 -362.665 8
-624 -247.378 -367.998 8
+656 -202.4 -367.998 8
 
 Platform at 457
-Number of edges: 6
+Number of edges: 7
 456 -160 0 1
 441 140 0 2
 442 50 0 2
 443 50 0 2
 444 90 0 2
 458 122.454 -362.665 8
+656 -247.378 -367.998 8
 
 Platform at 458
 Number of edges: 6
@@ -1275,12 +1261,16 @@ Number of edges: 3
 464 105.213 -450.665 8
 
 Platform at 462
-Number of edges: 1
+Number of edges: 2
 461 -320 0 2
+657 160 0 1
 
 Platform at 463
-Number of edges: 1
+Number of edges: 4
 464 -160 0 1
+657 50 0 2
+658 50 0 2
+659 100 0 2
 
 Platform at 464
 Number of edges: 3
@@ -1297,9 +1287,9 @@ Number of edges: 4
 
 Platform at 466
 Number of edges: 3
-446 -50 0 2
 467 160 0 1
 624 -110 0 2
+656 -50 0 2
 
 Platform at 467
 Number of edges: 2
@@ -1326,9 +1316,9 @@ Number of edges: 6
 452 -210 0 2
 453 -120 0 2
 454 -50 0 2
-472 70.8665 -338.665 8
 473 -182.234 -359.998 8
 607 -197.996 -437.331 8
+655 160 0 1
 
 Platform at 472
 Number of edges: 7
@@ -1336,9 +1326,9 @@ Number of edges: 7
 447 80 0 2
 448 150 0 2
 449 230 0 2
-471 -70.8665 -338.665 8
 609 -70.6503 -498.665 8
 624 188.35 -357.332 8
+655 -160 0 1
 
 Platform at 473
 Number of edges: 4
@@ -1418,12 +1408,14 @@ Number of edges: 3
 581 53.3712 -437.331 8
 
 Platform at 579
-Number of edges: 1
+Number of edges: 2
 578 -250 0 2
+660 160 0 1
 
 Platform at 580
-Number of edges: 1
+Number of edges: 2
 582 -160 0 1
+662 160 0 1
 
 Platform at 581
 Number of edges: 3
@@ -1437,56 +1429,45 @@ Number of edges: 2
 581 -160 0 1
 
 Platform at 593
-Number of edges: 3
+Number of edges: 2
 594 160 0 1
-596 122.454 -362.665 8
-599 -53.5141 -426.665 8
+596 261.441 -202.665 8
 
 Platform at 594
-Number of edges: 6
+Number of edges: 3
 593 -160 0 1
 595 160 0 1
-596 88.1952 -359.998 8
-598 190.777 -423.998 8
-599 -88.2377 -429.331 8
-643 -140.748 -439.998 8
+596 186.744 -202.665 8
 
 Platform at 595
-Number of edges: 5
+Number of edges: 2
 594 -160 0 1
-596 53.3616 -357.332 8
-598 157.665 -421.332 8
-599 -123.533 -429.331 8
-643 -175.935 -439.998 8
+596 112.046 -202.665 8
 
 Platform at 596
-Number of edges: 6
+Number of edges: 4
 593 -270 0 2
 594 -120 0 2
 595 -50 0 2
 597 160 0 1
-598 105.717 -399.998 8
-599 -172.346 -415.998 8
 
 Platform at 597
-Number of edges: 2
+Number of edges: 3
 596 -160 0 1
 598 71.1543 -397.332 8
+664 -53.3657 -397.332 8
 
 Platform at 598
-Number of edges: 4
-594 -290 0 2
-595 -260 0 2
+Number of edges: 3
 596 -120 0 2
 597 -50 0 2
+664 -124.016 -338.665 8
 
 Platform at 599
-Number of edges: 5
-593 50 0 2
-594 70 0 2
-595 140 0 2
-596 270 0 2
+Number of edges: 3
 643 -53.0367 -349.332 8
+665 50 0 2
+666 180 0 2
 
 Platform at 600
 Number of edges: 6
@@ -1535,10 +1516,11 @@ Number of edges: 4
 610 164.707 -349.332 8
 
 Platform at 609
-Number of edges: 3
+Number of edges: 4
 608 -160 0 1
 472 50 0 2
 610 123.53 -349.332 8
+655 50 0 2
 
 Platform at 610
 Number of edges: 3
@@ -1629,19 +1611,19 @@ Number of edges: 4
 619 170 0 2
 
 Platform at 623
-Number of edges: 1
+Number of edges: 2
 624 -50 0 2
+656 -50 0 2
 
 Platform at 624
-Number of edges: 8
-446 50 0 2
+Number of edges: 7
 447 -50 0 2
 448 -50 0 2
-455 210 0 2
-456 290 0 2
 466 106.468 -407.998 8
 472 -240 0 2
 623 70.8729 -527.998 8
+655 -330 0 2
+656 160 0 1
 
 Platform at 625
 Number of edges: 3
@@ -1702,33 +1684,37 @@ Number of edges: 2
 634 -50 0 2
 
 Platform at 636
-Number of edges: 6
+Number of edges: 7
 600 106.251 -378.665 8
 633 -150 0 2
 634 -110 0 2
 635 -50 0 2
 637 50 0 2
 641 157.542 -391.998 8
+670 170 0 2
 
 Platform at 637
-Number of edges: 1
+Number of edges: 3
 636 -70.979 -407.998 8
+668 70 0 2
+670 50 0 2
 
 Platform at 638
-Number of edges: 5
+Number of edges: 6
 198 50 0 2
 200 190 0 2
-202 140.748 -439.998 8
 343 -140.748 -439.998 8
 639 -160 0 1
+646 50 0 2
+650 106.742 -437.331 8
 
 Platform at 639
 Number of edges: 5
 638 160 0 1
 196 -90 0 2
 197 -50 0 2
-202 175.935 -439.998 8
 343 -106.742 -437.331 8
+650 140.748 -439.998 8
 
 Platform at 641
 Number of edges: 4
@@ -1743,9 +1729,175 @@ Number of edges: 2
 643 160 0 1
 
 Platform at 643
-Number of edges: 4
+Number of edges: 5
 642 -160 0 1
-595 320 0 2
 599 50 0 2
 604 50 0 2
+665 320 0 2
+666 340 0 2
+
+Platform at 645
+Number of edges: 2
+210 -160 0 1
+184 -88.7237 -407.998 8
+
+Platform at 646
+Number of edges: 5
+198 -160 0 1
+184 50 0 2
+186 50 0 2
+200 88.1952 -359.998 8
+638 -71.3993 -466.665 8
+
+Platform at 647
+Number of edges: 4
+198 160 0 1
+188 -50 0 2
+197 -240 0 2
+200 157.441 -362.665 8
+
+Platform at 648
+Number of edges: 3
+391 -160 0 1
+392 88.0973 -399.998 8
+649 160 0 1
+
+Platform at 649
+Number of edges: 5
+648 -160 0 1
+343 130 0 2
+345 50 0 2
+346 70 0 2
+392 53.3657 -397.332 8
+
+Platform at 650
+Number of edges: 3
+202 160 0 1
+638 -100 0 2
+639 -160 0 2
+
+Platform at 651
+Number of edges: 3
+333 160 0 1
+315 -50 0 2
+334 -52.9961 -389.332 8
+
+Platform at 652
+Number of edges: 8
+436 160 0 1
+410 -50 0 2
+419 -80 0 2
+420 -50 0 2
+431 -230 0 2
+432 -160 0 2
+433 -100 0 2
+437 -139.948 -362.665 8
+
+Platform at 653
+Number of edges: 7
+445 160 0 1
+396 -90 0 2
+397 -90 0 2
+404 -140 0 2
+406 -210 0 2
+450 115.903 -386.665 8
+455 88.3129 -498.665 8
+
+Platform at 654
+Number of edges: 4
+409 -160 0 1
+407 90 0 2
+408 50 0 2
+451 -140.037 -391.998 8
+
+Platform at 655
+Number of edges: 3
+471 -160 0 1
+472 160 0 1
+624 214.654 -373.332 8
+
+Platform at 656
+Number of edges: 5
+624 -160 0 1
+455 140 0 2
+456 220 0 2
+457 290 0 2
+466 84.1674 -367.998 8
+
+Platform at 657
+Number of edges: 2
+462 -160 0 1
+658 160 0 1
+
+Platform at 658
+Number of edges: 3
+657 -160 0 1
+463 -70.5901 -429.331 8
+659 160 0 1
+
+Platform at 659
+Number of edges: 2
+658 -160 0 1
+463 -105.885 -429.331 8
+
+Platform at 660
+Number of edges: 2
+579 -160 0 1
+661 160 0 1
+
+Platform at 661
+Number of edges: 1
+660 -160 0 1
+
+Platform at 662
+Number of edges: 2
+580 -160 0 1
+661 50 0 2
+
+Platform at 664
+Number of edges: 6
+596 50 0 2
+597 50 0 2
+598 124.016 -338.665 8
+599 -157.833 -351.998 8
+643 -208.205 -365.332 8
+667 -160 0 1
+
+Platform at 665
+Number of edges: 3
+599 -53.0367 -349.332 8
+643 -105.834 -359.998 8
+666 160 0 1
+
+Platform at 666
+Number of edges: 5
+665 -160 0 1
+598 193.36 -341.332 8
+599 -87.685 -351.998 8
+643 -139.948 -362.665 8
+667 160 0 1
+
+Platform at 667
+Number of edges: 5
+664 160 0 1
+666 -160 0 1
+598 159.45 -338.665 8
+599 -122.759 -351.998 8
+643 -173.504 -365.332 8
+
+Platform at 668
+Number of edges: 2
+637 -88.4891 -418.665 8
+670 -160 0 1
+
+Platform at 669
+Number of edges: 1
+670 160 0 1
+
+Platform at 670
+Number of edges: 4
+668 160 0 1
+669 -160 0 1
+636 -125.915 -485.331 8
+637 -53.0935 -418.665 8
 
